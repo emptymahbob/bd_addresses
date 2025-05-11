@@ -14,7 +14,7 @@
         }
         body {
             font-family: 'SolaimanLipi', Arial, sans-serif;
-            direction: rtl;
+            /* direction: rtl; */ /* Removed RTL direction */
         }
         .form-label {
             font-weight: bold;
@@ -37,6 +37,9 @@
         }
         .select2-container--bootstrap-5 .select2-selection--single .select2-selection__rendered {
             padding-right: 10px;
+        }
+        #village {
+            direction: ltr; /* Explicitly set village input to LTR */
         }
     </style>
 </head>
