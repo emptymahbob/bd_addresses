@@ -1,0 +1,52 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Boda",
+            "postOffice": "Boda",
+            "postCode": "5010",
+            "bn_postOffice": "বোদা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Chotto Dab",
+            "postOffice": "Chotto Dab",
+            "postCode": "5040",
+            "bn_postOffice": "ছোটো ড্যাব"
+        },
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Chotto Dab",
+            "postOffice": "Mirjapur",
+            "postCode": "5041",
+            "bn_postOffice": "মির্জাপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Dabiganj",
+            "postOffice": "Dabiganj",
+            "postCode": "5020",
+            "bn_postOffice": "দবিগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Panchagarh Sadar",
+            "postOffice": "Panchagarh Sadar",
+            "postCode": "5000",
+            "bn_postOffice": "পঞ্চগড় সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "31",
+            "upazila": "Tetulia",
+            "postOffice": "Tetulia",
+            "postCode": "5030",
+            "bn_postOffice": "তেতুলিয়া"
+        }
+    ]
+}

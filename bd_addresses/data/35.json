@@ -1,0 +1,332 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Agailzhara",
+            "postOffice": "Agailzhara",
+            "postCode": "8240",
+            "bn_postOffice": "আগাইলঝারা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Agailzhara",
+            "postOffice": "Gaila",
+            "postCode": "8241",
+            "bn_postOffice": "গাইলা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Agailzhara",
+            "postOffice": "Paisarhat",
+            "postCode": "8242",
+            "bn_postOffice": "পয়সারহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Babuganj",
+            "postCode": "8210",
+            "bn_postOffice": "বাবুগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Barisal Cadet",
+            "postCode": "8216",
+            "bn_postOffice": "বরিশাল ক্যাডেট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Chandpasha",
+            "postCode": "8212",
+            "bn_postOffice": "চাঁদপাশা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Madhabpasha",
+            "postCode": "8213",
+            "bn_postOffice": "মাধবপাশা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Nizamuddin College",
+            "postCode": "8215",
+            "bn_postOffice": "নিজামুদ্দিন কলেজ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Rahamatpur",
+            "postCode": "8211",
+            "bn_postOffice": "রহমতপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Babuganj",
+            "postOffice": "Thakur Mallik",
+            "postCode": "8214",
+            "bn_postOffice": "ঠাকুর মল্লিক"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barajalia",
+            "postOffice": "Barajalia",
+            "postCode": "8260",
+            "bn_postOffice": "বড়জালিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barajalia",
+            "postOffice": "Osman Manjil",
+            "postCode": "8261",
+            "bn_postOffice": "ওসমান মানজিল"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Barisal Sadar",
+            "postCode": "8200",
+            "bn_postOffice": "বরিশাল সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Bukhainagar",
+            "postCode": "8201",
+            "bn_postOffice": "বুখাইনগর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Jaguarhat",
+            "postCode": "8206",
+            "bn_postOffice": "জাগুয়ারহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Kashipur",
+            "postCode": "8205",
+            "bn_postOffice": "কাশীপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Patang",
+            "postCode": "8204",
+            "bn_postOffice": "পাতং"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Saheberhat",
+            "postCode": "8202",
+            "bn_postOffice": "সাহেবেরহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Barisal Sadar",
+            "postOffice": "Sugandia",
+            "postCode": "8203",
+            "bn_postOffice": "সুগান্দিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Gouranadi",
+            "postOffice": "Batajor",
+            "postCode": "8233",
+            "bn_postOffice": "বাতাজোর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Gouranadi",
+            "postOffice": "Gouranadi",
+            "postCode": "8230",
+            "bn_postOffice": "গৌরনদী"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Gouranadi",
+            "postOffice": "Kashemabad",
+            "postCode": "8232",
+            "bn_postOffice": "কাশেমাবাদ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Gouranadi",
+            "postOffice": "Tarki Bandar",
+            "postCode": "8231",
+            "bn_postOffice": "তারকি বন্দর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Mahendiganj",
+            "postOffice": "Langutia",
+            "postCode": "8274",
+            "bn_postOffice": "ল্যাঙ্গুটিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Mahendiganj",
+            "postOffice": "Laskarpur",
+            "postCode": "8271",
+            "bn_postOffice": "লস্করপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Mahendiganj",
+            "postOffice": "Mahendiganj",
+            "postCode": "8270",
+            "bn_postOffice": "মহেন্দিগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Mahendiganj",
+            "postOffice": "Nalgora",
+            "postCode": "8273",
+            "bn_postOffice": "নালগোরা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Mahendiganj",
+            "postOffice": "Ulania",
+            "postCode": "8272",
+            "bn_postOffice": "উলানিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Muladi",
+            "postOffice": "Charkalekhan",
+            "postCode": "8252",
+            "bn_postOffice": "চরকালেখান"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Muladi",
+            "postOffice": "Kazirchar",
+            "postCode": "8251",
+            "bn_postOffice": "কাজিরচর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Muladi",
+            "postOffice": "Muladi",
+            "postCode": "8250",
+            "bn_postOffice": "মুলাদি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Sahebganj",
+            "postOffice": "Charamandi",
+            "postCode": "8281",
+            "bn_postOffice": "চরমান্ডি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Sahebganj",
+            "postOffice": "kalaskati",
+            "postCode": "8284",
+            "bn_postOffice": "কলসকাটি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Sahebganj",
+            "postOffice": "Padri Shibpur",
+            "postCode": "8282",
+            "bn_postOffice": "পাদ্রি শিবপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Sahebganj",
+            "postOffice": "Sahebganj",
+            "postCode": "8280",
+            "bn_postOffice": "সাহেবগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Sahebganj",
+            "postOffice": "Shialguni",
+            "postCode": "8283",
+            "bn_postOffice": "শিয়ালগুনি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Uzirpur",
+            "postOffice": "Dakuarhat",
+            "postCode": "8223",
+            "bn_postOffice": "ডাকুয়ারহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Uzirpur",
+            "postOffice": "Dhamura",
+            "postCode": "8221",
+            "bn_postOffice": "ধামুরা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Uzirpur",
+            "postOffice": "Jugirkanda",
+            "postCode": "8222",
+            "bn_postOffice": "জুগিরকান্দা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Uzirpur",
+            "postOffice": "Shikarpur",
+            "postCode": "8224",
+            "bn_postOffice": "শিকারপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "35",
+            "upazila": "Uzirpur",
+            "postOffice": "Uzirpur",
+            "postCode": "8220",
+            "bn_postOffice": "উজিরপুর"
+        }
+    ]
+}

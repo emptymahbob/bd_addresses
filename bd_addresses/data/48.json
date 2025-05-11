@@ -1,0 +1,196 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Char Alexgander",
+            "postOffice": "Char Alexgander",
+            "postCode": "3730",
+            "bn_postOffice": "চার অ্যালেক্সগ্যান্ডার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Char Alexgander",
+            "postOffice": "Hajirghat",
+            "postCode": "3731",
+            "bn_postOffice": "হাজিরঘাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Char Alexgander",
+            "postOffice": "Ramgatirhat",
+            "postCode": "3732",
+            "bn_postOffice": "রামগতিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Amani Lakshimpur",
+            "postCode": "3709",
+            "bn_postOffice": "আমানী লক্ষ্মীপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Bhabaniganj",
+            "postCode": "3702",
+            "bn_postOffice": "ভবানীগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Chandraganj",
+            "postCode": "3708",
+            "bn_postOffice": "চন্দ্রগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Choupalli",
+            "postCode": "3707",
+            "bn_postOffice": "চৌপল্লি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Dalal Bazar",
+            "postCode": "3701",
+            "bn_postOffice": "দালাল বাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Duttapara",
+            "postCode": "3706",
+            "bn_postOffice": "দত্তপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Keramatganj",
+            "postCode": "3704",
+            "bn_postOffice": "কেরামতগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Lakshimpur Sadar",
+            "postCode": "3700",
+            "bn_postOffice": "লক্ষ্মীপুর সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Mandari",
+            "postCode": "3703",
+            "bn_postOffice": "মান্দারি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Lakshimpur Sadar",
+            "postOffice": "Rupchara",
+            "postCode": "3705",
+            "bn_postOffice": "রূপছড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Alipur",
+            "postCode": "3721",
+            "bn_postOffice": "আলিপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Dolta",
+            "postCode": "3725",
+            "bn_postOffice": "দোল্টা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Kanchanpur",
+            "postCode": "3723",
+            "bn_postOffice": "কাঞ্চনপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Naagmud",
+            "postCode": "3724",
+            "bn_postOffice": "নাগমুদ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Panpara",
+            "postCode": "3722",
+            "bn_postOffice": "পানপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Ramganj",
+            "postOffice": "Ramganj",
+            "postCode": "3720",
+            "bn_postOffice": "রামগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Raypur",
+            "postOffice": "Bhuabari",
+            "postCode": "3714",
+            "bn_postOffice": "ভুয়াবাড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Raypur",
+            "postOffice": "Haydarganj",
+            "postCode": "3713",
+            "bn_postOffice": "হায়দারগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Raypur",
+            "postOffice": "Nagerdighirpar",
+            "postCode": "3712",
+            "bn_postOffice": "নাগের্দিঘিরপাড়"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Raypur",
+            "postOffice": "Rakhallia",
+            "postCode": "3711",
+            "bn_postOffice": "রাখালিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "48",
+            "upazila": "Raypur",
+            "postOffice": "Raypur",
+            "postCode": "3710",
+            "bn_postOffice": "রায়পুর"
+        }
+    ]
+}

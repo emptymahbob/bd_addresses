@@ -1,0 +1,84 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Dimla",
+            "postOffice": "Dimla",
+            "postCode": "5350",
+            "bn_postOffice": "ডিমলা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Dimla",
+            "postOffice": "Ghaga Kharibari",
+            "postCode": "5351",
+            "bn_postOffice": "ঘাগা খড়িবাড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Domar",
+            "postOffice": "Chilahati",
+            "postCode": "5341",
+            "bn_postOffice": "চিলাহাটি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Domar",
+            "postOffice": "Domar",
+            "postCode": "5340",
+            "bn_postOffice": "ডোমার"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Jaldhaka",
+            "postOffice": "Jaldhaka",
+            "postCode": "5330",
+            "bn_postOffice": "জলঢাকা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Kishoriganj",
+            "postOffice": "Kishoriganj",
+            "postCode": "5320",
+            "bn_postOffice": "কিশোরীগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Nilphamari Sadar",
+            "postOffice": "Nilphamari Sadar",
+            "postCode": "5300",
+            "bn_postOffice": "নীলফামারী সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Nilphamari Sadar",
+            "postOffice": "Nilphamari Sugar Mil",
+            "postCode": "5301",
+            "bn_postOffice": "নীলফামারী চিনিকল"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Syedpur",
+            "postOffice": "Syedpur",
+            "postCode": "5310",
+            "bn_postOffice": "সৈয়দপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "30",
+            "upazila": "Syedpur",
+            "postOffice": "Syedpur Upashahar",
+            "postCode": "5311",
+            "bn_postOffice": "সৈয়দপুর উপশহর"
+        }
+    ]
+}

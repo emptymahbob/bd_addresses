@@ -1,0 +1,100 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Jhalokathi Sadar",
+            "postOffice": "Baukathi",
+            "postCode": "8402",
+            "bn_postOffice": "বাউকাঠি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Jhalokathi Sadar",
+            "postOffice": "Gabha",
+            "postCode": "8403",
+            "bn_postOffice": "গাভা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Jhalokathi Sadar",
+            "postOffice": "Jhalokathi Sadar",
+            "postCode": "8400",
+            "bn_postOffice": "ঝালকাঠি সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Jhalokathi Sadar",
+            "postOffice": "Nabagram",
+            "postCode": "8401",
+            "bn_postOffice": "নবগ্রাম"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Jhalokathi Sadar",
+            "postOffice": "Shekherhat",
+            "postCode": "8404",
+            "bn_postOffice": "শেখেরহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Kathalia",
+            "postOffice": "Amua",
+            "postCode": "8431",
+            "bn_postOffice": "আমুয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Kathalia",
+            "postOffice": "Kathalia",
+            "postCode": "8430",
+            "bn_postOffice": "কাঠালিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Kathalia",
+            "postOffice": "Niamatee",
+            "postCode": "8432",
+            "bn_postOffice": "নিয়ামাটি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Kathalia",
+            "postOffice": "Shoulajalia",
+            "postCode": "8433",
+            "bn_postOffice": "শৌলজালিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Nalchhiti",
+            "postOffice": "Beerkathi",
+            "postCode": "8421",
+            "bn_postOffice": "বীরকাঠি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Nalchhiti",
+            "postOffice": "Nalchhiti",
+            "postCode": "8420",
+            "bn_postOffice": "নলছিটি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "37",
+            "upazila": "Rajapur",
+            "postOffice": "Rajapur",
+            "postCode": "8410",
+            "bn_postOffice": "রাজাপুর"
+        }
+    ]
+}

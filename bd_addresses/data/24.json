@@ -1,0 +1,188 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Bagha",
+            "postOffice": "Arani",
+            "postCode": "6281",
+            "bn_postOffice": "অরানি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Bagha",
+            "postOffice": "Bagha",
+            "postCode": "6280",
+            "bn_postOffice": "বাঘা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Bhabaniganj",
+            "postOffice": "Bhabaniganj",
+            "postCode": "6250",
+            "bn_postOffice": "ভবানীগঞ্জ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Bhabaniganj",
+            "postOffice": "Taharpur",
+            "postCode": "6251",
+            "bn_postOffice": "তাহারপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Charghat",
+            "postOffice": "Charghat",
+            "postCode": "6270",
+            "bn_postOffice": "চারঘাট"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Charghat",
+            "postOffice": "Sarda",
+            "postCode": "6271",
+            "bn_postOffice": "সারদা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Durgapur",
+            "postOffice": "Durgapur",
+            "postCode": "6240",
+            "bn_postOffice": "দুর্গাপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Godagari",
+            "postOffice": "Godagari",
+            "postCode": "6290",
+            "bn_postOffice": "গোদাগাড়ী"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Godagari",
+            "postOffice": "Premtoli",
+            "postCode": "6291",
+            "bn_postOffice": "প্রেমতলি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Khod Mohanpur",
+            "postOffice": "Khodmohanpur",
+            "postCode": "6220",
+            "bn_postOffice": "খোদমোহনপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Lalitganj",
+            "postOffice": "Lalitganj",
+            "postCode": "6210",
+            "bn_postOffice": "ললিতগঞ্জ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Lalitganj",
+            "postOffice": "Rajshahi Sugar Mills",
+            "postCode": "6211",
+            "bn_postOffice": "রাজশাহী চিনিকল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Lalitganj",
+            "postOffice": "Shyampur",
+            "postCode": "6212",
+            "bn_postOffice": "শ্যামপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Putia",
+            "postOffice": "Putia",
+            "postCode": "6260",
+            "bn_postOffice": "পুটিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Binodpur Bazar",
+            "postCode": "6206",
+            "bn_postOffice": "বিনোদপুর বাজার"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Ghuramara",
+            "postCode": "6100",
+            "bn_postOffice": "ঘুরামারা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Kazla",
+            "postCode": "6204",
+            "bn_postOffice": "কাজলা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Rajshahi Canttonment",
+            "postCode": "6202",
+            "bn_postOffice": "রাজশাহী সেনানিবাস"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Rajshahi Court",
+            "postCode": "6201",
+            "bn_postOffice": "রাজশাহী আদালত"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Rajshahi Sadar",
+            "postCode": "6000",
+            "bn_postOffice": "রাজশাহী সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Rajshahi University",
+            "postCode": "6205",
+            "bn_postOffice": "রাজশাহী বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Rajshahi Sadar",
+            "postOffice": "Sapura",
+            "postCode": "6203",
+            "bn_postOffice": "সাপুরা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "24",
+            "upazila": "Tanor",
+            "postOffice": "Tanor",
+            "postCode": "6230",
+            "bn_postOffice": "তানোর"
+        }
+    ]
+}

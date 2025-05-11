@@ -1,0 +1,212 @@
+{
+    "postcodes": [
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Bishamsarpur",
+            "postOffice": "Bishamsapur",
+            "postCode": "3010",
+            "bn_postOffice": "বিষমপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Chhatak",
+            "postCode": "3080",
+            "bn_postOffice": "ছাতক"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Chhatak Cement Facto",
+            "postCode": "3081",
+            "bn_postOffice": "ছাতক সিমেন্ট ফ্যাক্টো"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Chhatak Paper Mills",
+            "postCode": "3082",
+            "bn_postOffice": "ছাতক পেপার মিলস"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Chourangi Bazar",
+            "postCode": "3893",
+            "bn_postOffice": "চৌরঙ্গী বাজার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Gabindaganj",
+            "postCode": "3083",
+            "bn_postOffice": "গাবিন্দগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Gabindaganj Natun Ba",
+            "postCode": "3084",
+            "bn_postOffice": "গাবিন্দগঞ্জ নতুন বা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Islamabad",
+            "postCode": "3088",
+            "bn_postOffice": "ইসলামাবাদ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "jahidpur",
+            "postCode": "3087",
+            "bn_postOffice": "জাহিদপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Khurma",
+            "postCode": "3085",
+            "bn_postOffice": "খুরমা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Chhatak",
+            "postOffice": "Moinpur",
+            "postCode": "3086",
+            "bn_postOffice": "মইনপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Dhirai Chandpur",
+            "postOffice": "Dhirai Chandpur",
+            "postCode": "3040",
+            "bn_postOffice": "ধাই চাঁদপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Dhirai Chandpur",
+            "postOffice": "Jagdal",
+            "postCode": "3041",
+            "bn_postOffice": "জগদল"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Duara bazar",
+            "postOffice": "Duara bazar",
+            "postCode": "3070",
+            "bn_postOffice": "দুয়ারা বাজার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Ghungiar",
+            "postOffice": "Ghungiar",
+            "postCode": "3050",
+            "bn_postOffice": "ঘুঙ্গিয়ার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Atuajan",
+            "postCode": "3062",
+            "bn_postOffice": "আতুয়াজান"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Hasan Fatemapur",
+            "postCode": "3063",
+            "bn_postOffice": "হাসান ফাতেমাপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Jagnnathpur",
+            "postCode": "3060",
+            "bn_postOffice": "জগন্নাথপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Rasulganj",
+            "postCode": "3064",
+            "bn_postOffice": "রসুলগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Shiramsi",
+            "postCode": "3065",
+            "bn_postOffice": "শিরামসি"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Jagnnathpur",
+            "postOffice": "Syedpur",
+            "postCode": "3061",
+            "bn_postOffice": "সৈয়দপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Sachna",
+            "postOffice": "Sachna",
+            "postCode": "3020",
+            "bn_postOffice": "সাচনা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Sunamganj Sadar",
+            "postOffice": "Pagla",
+            "postCode": "3001",
+            "bn_postOffice": "পাগলা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Sunamganj Sadar",
+            "postOffice": "Patharia",
+            "postCode": "3002",
+            "bn_postOffice": "পাথারিয়া"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Sunamganj Sadar",
+            "postOffice": "Sunamganj Sadar",
+            "postCode": "3000",
+            "bn_postOffice": "সুনামগঞ্জ সদর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "53",
+            "upazila": "Tahirpur",
+            "postOffice": "Tahirpur",
+            "postCode": "3030",
+            "bn_postOffice": "তাহিরপুর"
+        }
+    ]
+}

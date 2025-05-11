@@ -1,0 +1,116 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Bhola Sadar",
+            "postOffice": "Bhola Sadar",
+            "postCode": "8300",
+            "bn_postOffice": "ভোলা সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Bhola Sadar",
+            "postOffice": "Joynagar",
+            "postCode": "8301",
+            "bn_postOffice": "জয়নগর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Borhanuddin UPO",
+            "postOffice": "Borhanuddin UPO",
+            "postCode": "8320",
+            "bn_postOffice": "বোরহানউদ্দিন ইউপিও"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Borhanuddin UPO",
+            "postOffice": "Mirzakalu",
+            "postCode": "8321",
+            "bn_postOffice": "মির্জাকালু"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Charfashion",
+            "postOffice": "Charfashion",
+            "postCode": "8340",
+            "bn_postOffice": "চারফ্যাশন"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Charfashion",
+            "postOffice": "Dularhat",
+            "postCode": "8341",
+            "bn_postOffice": "দুলারহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Charfashion",
+            "postOffice": "Keramatganj",
+            "postCode": "8342",
+            "bn_postOffice": "কেরামতগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Doulatkhan",
+            "postOffice": "Doulatkhan",
+            "postCode": "8310",
+            "bn_postOffice": "দৌলতখান"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Doulatkhan",
+            "postOffice": "Hajipur",
+            "postCode": "8311",
+            "bn_postOffice": "হাজিপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Hajirhat",
+            "postOffice": "Hajirhat",
+            "postCode": "8360",
+            "bn_postOffice": "হাজিরহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Hatshoshiganj",
+            "postOffice": "Hatshoshiganj",
+            "postCode": "8350",
+            "bn_postOffice": "হাটশোশিগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Lalmohan UPO",
+            "postOffice": "Daurihat",
+            "postCode": "8331",
+            "bn_postOffice": "দৌরিহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Lalmohan UPO",
+            "postOffice": "Gazaria",
+            "postCode": "8332",
+            "bn_postOffice": "গাজারিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "36",
+            "upazila": "Lalmohan UPO",
+            "postOffice": "Lalmohan UPO",
+            "postCode": "8330",
+            "bn_postOffice": "লালমোহন ইউপিও"
+        }
+    ]
+}

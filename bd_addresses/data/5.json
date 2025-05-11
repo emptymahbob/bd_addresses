@@ -1,0 +1,164 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Dewangonj",
+            "postOffice": "Dewangonj",
+            "postCode": "2030",
+            "bn_postOffice": "দেওয়াংগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Dewangonj",
+            "postOffice": "Dewangonj S. Mills",
+            "postCode": "2031",
+            "bn_postOffice": "দেওয়াঙ্গনজ এস. মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Islampur",
+            "postOffice": "Durmoot",
+            "postCode": "2021",
+            "bn_postOffice": "ডারমুট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Islampur",
+            "postOffice": "Gilabari",
+            "postCode": "2022",
+            "bn_postOffice": "গিলাবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Islampur",
+            "postOffice": "Islampur",
+            "postCode": "2020",
+            "bn_postOffice": "ইসলামপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Jamalpur",
+            "postOffice": "Jamalpur",
+            "postCode": "2000",
+            "bn_postOffice": "জামালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Jamalpur",
+            "postOffice": "Nandina",
+            "postCode": "2001",
+            "bn_postOffice": "নন্দিনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Jamalpur",
+            "postOffice": "Narundi",
+            "postCode": "2002",
+            "bn_postOffice": "নারুন্ডি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Malandah",
+            "postOffice": "Jamalpur",
+            "postCode": "2011",
+            "bn_postOffice": "জামালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Malandah",
+            "postOffice": "Mahmoodpur",
+            "postCode": "2013",
+            "bn_postOffice": "মাহমুদপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Malandah",
+            "postOffice": "Malancha",
+            "postCode": "2012",
+            "bn_postOffice": "মালাঞ্চা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Malandah",
+            "postOffice": "Malandah",
+            "postCode": "2010",
+            "bn_postOffice": "মালান্দাহ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Mathargonj",
+            "postOffice": "Balijhuri",
+            "postCode": "2041",
+            "bn_postOffice": "বালিঝুরি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Mathargonj",
+            "postOffice": "Mathargonj",
+            "postCode": "2040",
+            "bn_postOffice": "মাথারগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Bausee",
+            "postCode": "2052",
+            "bn_postOffice": "বাউসি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Gunerbari",
+            "postCode": "2051",
+            "bn_postOffice": "গুনেরবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Jagannath Ghat",
+            "postCode": "2053",
+            "bn_postOffice": "জগন্নাথ ঘাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Jamuna Sar Karkhana",
+            "postCode": "2055",
+            "bn_postOffice": "যমুনা সর কারখানা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Pingna",
+            "postCode": "2054",
+            "bn_postOffice": "পিংনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "5",
+            "upazila": "Shorishabari",
+            "postOffice": "Shorishabari",
+            "postCode": "2050",
+            "bn_postOffice": "সরিষাবাড়ি"
+        }
+    ]
+}

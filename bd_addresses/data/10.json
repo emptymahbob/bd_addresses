@@ -1,0 +1,252 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Bhaluka",
+            "postOffice": "Bhaluka",
+            "postCode": "2240",
+            "bn_postOffice": "ভালুকা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Fulbaria",
+            "postOffice": "Fulbaria",
+            "postCode": "2216",
+            "bn_postOffice": "ফুলবাড়িয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gaforgaon",
+            "postOffice": "Duttarbazar",
+            "postCode": "2234",
+            "bn_postOffice": "দত্তেরবাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gaforgaon",
+            "postOffice": "Gaforgaon",
+            "postCode": "2230",
+            "bn_postOffice": "গফরগাঁও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gaforgaon",
+            "postOffice": "Kandipara",
+            "postCode": "2233",
+            "bn_postOffice": "কান্দিপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gaforgaon",
+            "postOffice": "Shibganj",
+            "postCode": "2231",
+            "bn_postOffice": "শিবগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gaforgaon",
+            "postOffice": "Usti",
+            "postCode": "2232",
+            "bn_postOffice": "উস্তি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gouripur",
+            "postOffice": "Gouripur",
+            "postCode": "2270",
+            "bn_postOffice": "গৌরীপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Gouripur",
+            "postOffice": "Ramgopalpur",
+            "postCode": "2271",
+            "bn_postOffice": "রামগোপালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Haluaghat",
+            "postOffice": "Dhara",
+            "postCode": "2261",
+            "bn_postOffice": "ধারা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Haluaghat",
+            "postOffice": "Haluaghat",
+            "postCode": "2260",
+            "bn_postOffice": "হালুয়াঘাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Haluaghat",
+            "postOffice": "Munshirhat",
+            "postCode": "2262",
+            "bn_postOffice": "মুন্সিরহাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Isshwargonj",
+            "postOffice": "Atharabari",
+            "postCode": "2282",
+            "bn_postOffice": "আঠারাবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Isshwargonj",
+            "postOffice": "Isshwargonj",
+            "postCode": "2280",
+            "bn_postOffice": "ঈশ্বরগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Isshwargonj",
+            "postOffice": "Sohagi",
+            "postCode": "2281",
+            "bn_postOffice": "সোহাগি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Muktagachha",
+            "postOffice": "Muktagachha",
+            "postCode": "2210",
+            "bn_postOffice": "মুক্তাগাছা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Agriculture Universi",
+            "postCode": "2202",
+            "bn_postOffice": "কৃষি বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Biddyaganj",
+            "postCode": "2204",
+            "bn_postOffice": "বিদ্যাগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Kawatkhali",
+            "postCode": "2201",
+            "bn_postOffice": "কাওয়াতখালী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Mymensingh Sadar",
+            "postCode": "2200",
+            "bn_postOffice": "ময়মনসিংহ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Pearpur",
+            "postCode": "2205",
+            "bn_postOffice": "পিয়ারপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Mymensingh Sadar",
+            "postOffice": "Shombhuganj",
+            "postCode": "2203",
+            "bn_postOffice": "শম্ভুগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Nandail",
+            "postOffice": "Gangail",
+            "postCode": "2291",
+            "bn_postOffice": "গাঙ্গাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Nandail",
+            "postOffice": "Nandail",
+            "postCode": "2290",
+            "bn_postOffice": "নান্দাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Phulpur",
+            "postOffice": "Beltia",
+            "postCode": "2251",
+            "bn_postOffice": "বেলটিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Phulpur",
+            "postOffice": "Phulpur",
+            "postCode": "2250",
+            "bn_postOffice": "ফুলপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Phulpur",
+            "postOffice": "Tarakanda",
+            "postCode": "2252",
+            "bn_postOffice": "তারাকান্দা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Trishal",
+            "postOffice": "Ahmadbad",
+            "postCode": "2221",
+            "bn_postOffice": "আহমেদাবাদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Trishal",
+            "postOffice": "Dhala",
+            "postCode": "2223",
+            "bn_postOffice": "ধলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Trishal",
+            "postOffice": "Ram Amritaganj",
+            "postCode": "2222",
+            "bn_postOffice": "রাম অমৃতগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "10",
+            "upazila": "Trishal",
+            "postOffice": "Trishal",
+            "postCode": "2220",
+            "bn_postOffice": "ত্রিশাল"
+        }
+    ]
+}

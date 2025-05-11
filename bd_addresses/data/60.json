@@ -1,0 +1,140 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Bheramara",
+            "postOffice": "Allardarga",
+            "postCode": "7042",
+            "bn_postOffice": "আল্লারদার্গা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Bheramara",
+            "postOffice": "Bheramara",
+            "postCode": "7040",
+            "bn_postOffice": "ভেড়ামারা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Bheramara",
+            "postOffice": "Ganges Bheramara",
+            "postCode": "7041",
+            "bn_postOffice": "গঙ্গা ভেড়ামারা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Janipur",
+            "postOffice": "Janipur",
+            "postCode": "7020",
+            "bn_postOffice": "জানিপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Janipur",
+            "postOffice": "Khoksa",
+            "postCode": "7021",
+            "bn_postOffice": "খোকসা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kumarkhali",
+            "postOffice": "Kumarkhali",
+            "postCode": "7010",
+            "bn_postOffice": "কুমারখালী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kumarkhali",
+            "postOffice": "Panti",
+            "postCode": "7011",
+            "bn_postOffice": "প্যান্টি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kustia Sadar",
+            "postOffice": "Islami University",
+            "postCode": "7003",
+            "bn_postOffice": "ইসলামী বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kustia Sadar",
+            "postOffice": "Jagati",
+            "postCode": "7002",
+            "bn_postOffice": "জগতি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kustia Sadar",
+            "postOffice": "Kushtia Mohini",
+            "postCode": "7001",
+            "bn_postOffice": "কুষ্টিয়া মোহিনী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Kustia Sadar",
+            "postOffice": "Kustia Sadar",
+            "postCode": "7000",
+            "bn_postOffice": "কুষ্টিয়া সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Mirpur",
+            "postOffice": "Amla Sadarpur",
+            "postCode": "7032",
+            "bn_postOffice": "আমলা সদরপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Mirpur",
+            "postOffice": "Mirpur",
+            "postCode": "7030",
+            "bn_postOffice": "মিরপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Mirpur",
+            "postOffice": "Poradaha",
+            "postCode": "7031",
+            "bn_postOffice": "পোড়াদহ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Rafayetpur",
+            "postOffice": "Khasmathurapur",
+            "postCode": "7052",
+            "bn_postOffice": "খাসমথুরাপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Rafayetpur",
+            "postOffice": "Rafayetpur",
+            "postCode": "7050",
+            "bn_postOffice": "রাফায়েতপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "60",
+            "upazila": "Rafayetpur",
+            "postOffice": "Taragunia",
+            "postCode": "7051",
+            "bn_postOffice": "তারাগুনিয়া"
+        }
+    ]
+}

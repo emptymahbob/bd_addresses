@@ -1,0 +1,76 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Harinakundu",
+            "postOffice": "Harinakundu",
+            "postCode": "7310",
+            "bn_postOffice": "হরিণাকুন্ডু"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Jinaidaha Sadar",
+            "postOffice": "Jinaidaha Cadet College",
+            "postCode": "7301",
+            "bn_postOffice": "জিনাইদহ ক্যাডেট কলেজ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Jinaidaha Sadar",
+            "postOffice": "Jinaidaha Sadar",
+            "postCode": "7300",
+            "bn_postOffice": "জিনাইদহ সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Kotchandpur",
+            "postOffice": "Kotchandpur",
+            "postCode": "7330",
+            "bn_postOffice": "কোটচাঁদপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Maheshpur",
+            "postOffice": "Maheshpur",
+            "postCode": "7340",
+            "bn_postOffice": "মহেশপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Naldanga",
+            "postOffice": "Hatbar Bazar",
+            "postCode": "7351",
+            "bn_postOffice": "হাটবার বাজার"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Naldanga",
+            "postOffice": "Naldanga",
+            "postCode": "7350",
+            "bn_postOffice": "নলডাঙ্গা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Shailakupa",
+            "postOffice": "Kumiradaha",
+            "postCode": "7321",
+            "bn_postOffice": "কুমিরাদহা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "58",
+            "upazila": "Shailakupa",
+            "postOffice": "Shailakupa",
+            "postCode": "7320",
+            "bn_postOffice": "শৈলকূপ"
+        }
+    ]
+}

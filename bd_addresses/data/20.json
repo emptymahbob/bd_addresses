@@ -1,0 +1,148 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Ahsanganj",
+            "postOffice": "Ahsanganj",
+            "postCode": "6596",
+            "bn_postOffice": "আহসানগঞ্জ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Ahsanganj",
+            "postOffice": "Bandai",
+            "postCode": "6597",
+            "bn_postOffice": "বান্দাই"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Badalgachhi",
+            "postOffice": "Badalgachhi",
+            "postCode": "6570",
+            "bn_postOffice": "বদলগাছী"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Dhamuirhat",
+            "postOffice": "Dhamuirhat",
+            "postCode": "6580",
+            "bn_postOffice": "ধামুইরহাট"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Mahadebpur",
+            "postOffice": "Mahadebpur",
+            "postCode": "6530",
+            "bn_postOffice": "মহাদেবপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Naogaon Sadar",
+            "postOffice": "Naogaon Sadar",
+            "postCode": "6500",
+            "bn_postOffice": "নওগাঁ সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Niamatpur",
+            "postOffice": "Niamatpur",
+            "postCode": "6520",
+            "bn_postOffice": "নিয়ামতপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Nitpur",
+            "postOffice": "Nitpur",
+            "postCode": "6550",
+            "bn_postOffice": "নিতপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Nitpur",
+            "postOffice": "Panguria",
+            "postCode": "6552",
+            "bn_postOffice": "পাঙ্গুরিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Nitpur",
+            "postOffice": "Porsa",
+            "postCode": "6551",
+            "bn_postOffice": "পোরসা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Patnitala",
+            "postOffice": "Patnitala",
+            "postCode": "6540",
+            "bn_postOffice": "পত্নীতলা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Prasadpur",
+            "postOffice": "Balihar",
+            "postCode": "6512",
+            "bn_postOffice": "বলিহার"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Prasadpur",
+            "postOffice": "Manda",
+            "postCode": "6511",
+            "bn_postOffice": "মান্দা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Prasadpur",
+            "postOffice": "Prasadpur",
+            "postCode": "6510",
+            "bn_postOffice": "প্রসাদপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Raninagar",
+            "postOffice": "Kashimpur",
+            "postCode": "6591",
+            "bn_postOffice": "কাশিমপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Raninagar",
+            "postOffice": "Raninagar",
+            "postCode": "6590",
+            "bn_postOffice": "রাণীনগর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Sapahar",
+            "postOffice": "Moduhil",
+            "postCode": "6561",
+            "bn_postOffice": "মোদুহিল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "20",
+            "upazila": "Sapahar",
+            "postOffice": "Sapahar",
+            "postCode": "6560",
+            "bn_postOffice": "সাপাহার"
+        }
+    ]
+}

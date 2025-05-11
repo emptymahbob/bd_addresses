@@ -1,0 +1,212 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Bagerhat Sadar",
+            "postOffice": "Bagerhat Sadar",
+            "postCode": "9300",
+            "bn_postOffice": "বাগেরহাট সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Bagerhat Sadar",
+            "postOffice": "P.C College",
+            "postCode": "9301",
+            "bn_postOffice": "পিসি কলেজ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Bagerhat Sadar",
+            "postOffice": "Rangdia",
+            "postCode": "9302",
+            "bn_postOffice": "রংদিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Chalna Ankorage",
+            "postOffice": "Chalna Ankorage",
+            "postCode": "9350",
+            "bn_postOffice": "চালনা আনকোরেজ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Chalna Ankorage",
+            "postOffice": "Mongla Port",
+            "postCode": "9351",
+            "bn_postOffice": "মংলা বন্দর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Chitalmari",
+            "postOffice": "Barabaria",
+            "postCode": "9361",
+            "bn_postOffice": "বারাবারিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Chitalmari",
+            "postOffice": "Chitalmari",
+            "postCode": "9360",
+            "bn_postOffice": "চিতলমারী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Fakirhat",
+            "postOffice": "Bhanganpar Bazar",
+            "postCode": "9372",
+            "bn_postOffice": "ভাঙনপাড় বাজার"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Fakirhat",
+            "postOffice": "Fakirhat",
+            "postCode": "9370",
+            "bn_postOffice": "ফকিরহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Fakirhat",
+            "postOffice": "Mansa",
+            "postCode": "9371",
+            "bn_postOffice": "মানসা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Kachua UPO",
+            "postOffice": "Kachua",
+            "postCode": "9310",
+            "bn_postOffice": "কচুয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Kachua UPO",
+            "postOffice": "Sonarkola",
+            "postCode": "9311",
+            "bn_postOffice": "সোনারকোলা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Charkulia",
+            "postCode": "9383",
+            "bn_postOffice": "চরকুলিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Dariala",
+            "postCode": "9382",
+            "bn_postOffice": "দারিয়ালা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Kahalpur",
+            "postCode": "9381",
+            "bn_postOffice": "কাহালপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Mollahat",
+            "postCode": "9380",
+            "bn_postOffice": "মোল্লাহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Nagarkandi",
+            "postCode": "9384",
+            "bn_postOffice": "নাগরকান্দি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Mollahat",
+            "postOffice": "Pak Gangni",
+            "postCode": "9385",
+            "bn_postOffice": "পাক গাংনি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Morelganj",
+            "postOffice": "Morelganj",
+            "postCode": "9320",
+            "bn_postOffice": "মোরেলগঞ্জ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Morelganj",
+            "postOffice": "Sannasi Bazar",
+            "postCode": "9321",
+            "bn_postOffice": "সন্নাসী বাজার"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Morelganj",
+            "postOffice": "Telisatee",
+            "postCode": "9322",
+            "bn_postOffice": "টেলিসাটি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Rampal",
+            "postOffice": "Foylahat",
+            "postCode": "9341",
+            "bn_postOffice": "ফয়লাহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Rampal",
+            "postOffice": "Gourambha",
+            "postCode": "9343",
+            "bn_postOffice": "গৌরম্ভ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Rampal",
+            "postOffice": "Rampal",
+            "postCode": "9340",
+            "bn_postOffice": "রামপাল"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Rampal",
+            "postOffice": "Sonatunia",
+            "postCode": "9342",
+            "bn_postOffice": "সোনাতুনিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "55",
+            "upazila": "Rayenda",
+            "postOffice": "Rayenda",
+            "postCode": "9330",
+            "bn_postOffice": "রায়েন্ডা"
+        }
+    ]
+}

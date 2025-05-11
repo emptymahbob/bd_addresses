@@ -1,0 +1,108 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Gopalpur UPO",
+            "postOffice": "Abdulpur",
+            "postCode": "6422",
+            "bn_postOffice": "আব্দুলপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Gopalpur UPO",
+            "postOffice": "Gopalpur U.P.O",
+            "postCode": "6420",
+            "bn_postOffice": "গোপালপুর ইউপিও"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Gopalpur UPO",
+            "postOffice": "Lalpur S.O",
+            "postCode": "6421",
+            "bn_postOffice": "লালপুর এসও"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Harua",
+            "postOffice": "Baraigram",
+            "postCode": "6432",
+            "bn_postOffice": "বড়াইগ্রাম"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Harua",
+            "postOffice": "Dayarampur",
+            "postCode": "6431",
+            "bn_postOffice": "দয়ারামপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Harua",
+            "postOffice": "Harua",
+            "postCode": "6430",
+            "bn_postOffice": "হারুয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Hatgurudaspur",
+            "postOffice": "Hatgurudaspur",
+            "postCode": "6440",
+            "bn_postOffice": "হাটগুরুদাসপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Laxman",
+            "postOffice": "Laxman",
+            "postCode": "6410",
+            "bn_postOffice": "লক্ষ্মণ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Natore Sadar",
+            "postOffice": "Baiddyabal Gharia",
+            "postCode": "6402",
+            "bn_postOffice": "বৈদ্যবল ঘড়িয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Natore Sadar",
+            "postOffice": "Digapatia",
+            "postCode": "6401",
+            "bn_postOffice": "দিগপাতিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Natore Sadar",
+            "postOffice": "Madhnagar",
+            "postCode": "6403",
+            "bn_postOffice": "মাধনগর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Natore Sadar",
+            "postOffice": "Natore Sadar",
+            "postCode": "6400",
+            "bn_postOffice": "নাটোর সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "21",
+            "upazila": "Singra",
+            "postOffice": "Singra",
+            "postCode": "6450",
+            "bn_postOffice": "সিংড়া"
+        }
+    ]
+}

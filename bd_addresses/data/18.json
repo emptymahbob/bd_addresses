@@ -1,0 +1,164 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Alamdighi",
+            "postOffice": "Adamdighi",
+            "postCode": "5890",
+            "bn_postOffice": "আদমদীঘি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Alamdighi",
+            "postOffice": "Nasharatpur",
+            "postCode": "5892",
+            "bn_postOffice": "নশরতপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Alamdighi",
+            "postOffice": "Santahar",
+            "postCode": "5891",
+            "bn_postOffice": "সান্তাহার"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Bogra Sadar",
+            "postOffice": "Bogra Canttonment",
+            "postCode": "5801",
+            "bn_postOffice": "বগুড়া সেনানিবাস"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Bogra Sadar",
+            "postOffice": "Bogra Sadar",
+            "postCode": "5800",
+            "bn_postOffice": "বগুড়া সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Dhunat",
+            "postOffice": "Dhunat",
+            "postCode": "5850",
+            "bn_postOffice": "ধুনট"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Dhunat",
+            "postOffice": "Gosaibari",
+            "postCode": "5851",
+            "bn_postOffice": "গোসাইবাড়ি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Dupchachia",
+            "postOffice": "Dupchachia",
+            "postCode": "5880",
+            "bn_postOffice": "দুপচাচিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Dupchachia",
+            "postOffice": "Talora",
+            "postCode": "5881",
+            "bn_postOffice": "তালোরা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Gabtoli",
+            "postOffice": "Gabtoli",
+            "postCode": "5820",
+            "bn_postOffice": "গাবতলী"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Gabtoli",
+            "postOffice": "Sukhanpukur",
+            "postCode": "5821",
+            "bn_postOffice": "সুখানপুকুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Kahalu",
+            "postOffice": "Kahalu",
+            "postCode": "5870",
+            "bn_postOffice": "কাহালু"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Nandigram",
+            "postOffice": "Nandigram",
+            "postCode": "5860",
+            "bn_postOffice": "নন্দীগ্রাম"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sariakandi",
+            "postOffice": "Chandan Baisha",
+            "postCode": "5831",
+            "bn_postOffice": "চন্দন বাইশা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sariakandi",
+            "postOffice": "Sariakandi",
+            "postCode": "5830",
+            "bn_postOffice": "সারিয়াকান্দি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sherpur",
+            "postOffice": "Chandaikona",
+            "postCode": "5841",
+            "bn_postOffice": "চান্দাইকোনা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sherpur",
+            "postOffice": "Palli Unnyan Accadem",
+            "postCode": "5842",
+            "bn_postOffice": "পল্লী উন্নয়ন একাডেমি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sherpur",
+            "postOffice": "Sherpur",
+            "postCode": "5840",
+            "bn_postOffice": "শেরপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Shibganj",
+            "postOffice": "Shibganj",
+            "postCode": "5810",
+            "bn_postOffice": "শিবগঞ্জ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "18",
+            "upazila": "Sonatola",
+            "postOffice": "Sonatola",
+            "postCode": "5826",
+            "bn_postOffice": "সোনাতোলা"
+        }
+    ]
+}

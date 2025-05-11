@@ -1,0 +1,468 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Basurhat",
+            "postOffice": "Basur Hat",
+            "postCode": "3850",
+            "bn_postOffice": "বাসুর টুপি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Basurhat",
+            "postOffice": "Charhajari",
+            "postCode": "3851",
+            "bn_postOffice": "চরহাজারি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Alaiarpur",
+            "postCode": "3831",
+            "bn_postOffice": "আলাইয়ারপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Amisha Para",
+            "postCode": "3847",
+            "bn_postOffice": "আমিশা পারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Banglabazar",
+            "postCode": "3822",
+            "bn_postOffice": "বাংলাবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Bazra",
+            "postCode": "3824",
+            "bn_postOffice": "বাজরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Begumganj",
+            "postCode": "3820",
+            "bn_postOffice": "বেগমগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Bhabani Jibanpur",
+            "postCode": "3837",
+            "bn_postOffice": "ভবানী জীবনপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Choumohani",
+            "postCode": "3821",
+            "bn_postOffice": "চৌমোহনী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Dauti",
+            "postCode": "3843",
+            "bn_postOffice": "দৌতি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Durgapur",
+            "postCode": "3848",
+            "bn_postOffice": "দুর্গাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Gopalpur",
+            "postCode": "3828",
+            "bn_postOffice": "গোপালপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Jamidar Hat",
+            "postCode": "3825",
+            "bn_postOffice": "জমিদার হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Joyag",
+            "postCode": "3844",
+            "bn_postOffice": "জয়াগ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Joynarayanpur",
+            "postCode": "3829",
+            "bn_postOffice": "জয়নারায়ণপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Khalafat Bazar",
+            "postCode": "3833",
+            "bn_postOffice": "খালাফত বাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Khalishpur",
+            "postCode": "3842",
+            "bn_postOffice": "খালিশপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Maheshganj",
+            "postCode": "3838",
+            "bn_postOffice": "মহেশগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Mir Owarishpur",
+            "postCode": "3823",
+            "bn_postOffice": "মীর ওয়ারিশপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Nadona",
+            "postCode": "3839",
+            "bn_postOffice": "নাদোনা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Nandiapara",
+            "postCode": "3841",
+            "bn_postOffice": "নান্দিয়াপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Oachhekpur",
+            "postCode": "3835",
+            "bn_postOffice": "ওছেকপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Rajganj",
+            "postCode": "3834",
+            "bn_postOffice": "রাজগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Sonaimuri",
+            "postCode": "3827",
+            "bn_postOffice": "সোনাইমুড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Tangirpar",
+            "postCode": "3832",
+            "bn_postOffice": "টাঙ্গিরপাড়"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Begumganj",
+            "postOffice": "Thanar Hat",
+            "postCode": "3845",
+            "bn_postOffice": "থানার হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Bansa Bazar",
+            "postCode": "3879",
+            "bn_postOffice": "বাঁশ বাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Bodalcourt",
+            "postCode": "3873",
+            "bn_postOffice": "বোডালকোর্ট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Chatkhil",
+            "postCode": "3870",
+            "bn_postOffice": "চাটখিল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Dosh Gharia",
+            "postCode": "3878",
+            "bn_postOffice": "দোষ ঘড়িয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Karihati",
+            "postCode": "3877",
+            "bn_postOffice": "করিহাটি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Khilpara",
+            "postCode": "3872",
+            "bn_postOffice": "খিলপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Palla",
+            "postCode": "3871",
+            "bn_postOffice": "পাল্লা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Rezzakpur",
+            "postCode": "3874",
+            "bn_postOffice": "রেজ্জাকপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Sahapur",
+            "postCode": "3881",
+            "bn_postOffice": "সাহাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Sampara",
+            "postCode": "3882",
+            "bn_postOffice": "সাম্পারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Shingbahura",
+            "postCode": "3883",
+            "bn_postOffice": "শিংবাহুরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Chatkhil",
+            "postOffice": "Solla",
+            "postCode": "3875",
+            "bn_postOffice": "সোল্লা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Hatiya",
+            "postOffice": "Afazia",
+            "postCode": "3891",
+            "bn_postOffice": "আফাজিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Hatiya",
+            "postOffice": "Hatiya",
+            "postCode": "3890",
+            "bn_postOffice": "হাতিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Hatiya",
+            "postOffice": "Tamoraddi",
+            "postCode": "3892",
+            "bn_postOffice": "তমোরাদ্দি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Chaprashir Hat",
+            "postCode": "3811",
+            "bn_postOffice": "চাপরাশির হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Char Jabbar",
+            "postCode": "3812",
+            "bn_postOffice": "চর জব্বার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Charam Tua",
+            "postCode": "3809",
+            "bn_postOffice": "চরাম তুয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Din Monir Hat",
+            "postCode": "3803",
+            "bn_postOffice": "দীন মনির হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Kabirhat",
+            "postCode": "3807",
+            "bn_postOffice": "কবিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Khalifar Hat",
+            "postCode": "3808",
+            "bn_postOffice": "খলিফার হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Mriddarhat",
+            "postCode": "3806",
+            "bn_postOffice": "মৃদ্দারহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Noakhali College",
+            "postCode": "3801",
+            "bn_postOffice": "নোয়াখালী কলেজ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Noakhali Sadar",
+            "postCode": "3800",
+            "bn_postOffice": "নোয়াখালী সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Pak Kishoreganj",
+            "postCode": "3804",
+            "bn_postOffice": "পাক কিশোরগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Noakhali Sadar",
+            "postOffice": "Sonapur",
+            "postCode": "3802",
+            "bn_postOffice": "সোনাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "Beezbag",
+            "postCode": "3862",
+            "bn_postOffice": "বিজব্যাগ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "Chatarpaia",
+            "postCode": "3864",
+            "bn_postOffice": "চাতারপাইয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "Kallyandi",
+            "postCode": "3861",
+            "bn_postOffice": "কল্যান্দি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "Kankirhat",
+            "postCode": "3863",
+            "bn_postOffice": "কাঁকিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "Senbag",
+            "postCode": "3860",
+            "bn_postOffice": "সেনবাগ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "49",
+            "upazila": "Senbag",
+            "postOffice": "T.P. Lamua",
+            "postCode": "3865",
+            "bn_postOffice": "টিপি লামুয়া"
+        }
+    ]
+}

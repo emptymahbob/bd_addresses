@@ -1,0 +1,68 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Alamdanga",
+            "postOffice": "Alamdanga",
+            "postCode": "7210",
+            "bn_postOffice": "আলমডাঙ্গা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Alamdanga",
+            "postOffice": "Hardi",
+            "postCode": "7211",
+            "bn_postOffice": "হার্ডি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Chuadanga Sadar",
+            "postOffice": "Chuadanga Sadar",
+            "postCode": "7200",
+            "bn_postOffice": "চুয়াডাঙ্গা সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Chuadanga Sadar",
+            "postOffice": "Munshiganj",
+            "postCode": "7201",
+            "bn_postOffice": "মুন্সীগঞ্জ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Damurhuda",
+            "postOffice": "Andulbaria",
+            "postCode": "7222",
+            "bn_postOffice": "আন্দুলবাড়িয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Damurhuda",
+            "postOffice": "Damurhuda",
+            "postCode": "7220",
+            "bn_postOffice": "দামুড়হুদা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Damurhuda",
+            "postOffice": "Darshana",
+            "postCode": "7221",
+            "bn_postOffice": "দর্শনা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "56",
+            "upazila": "Doulatganj",
+            "postOffice": "Doulatganj",
+            "postCode": "7230",
+            "bn_postOffice": "দৌলতগঞ্জ"
+        }
+    ]
+}

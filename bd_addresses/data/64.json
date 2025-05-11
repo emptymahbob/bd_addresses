@@ -1,0 +1,204 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Ashashuni",
+            "postOffice": "Ashashuni",
+            "postCode": "9460",
+            "bn_postOffice": "আশাশুনি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Ashashuni",
+            "postOffice": "Baradal",
+            "postCode": "9461",
+            "bn_postOffice": "বড়দল"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Debbhata",
+            "postOffice": "Debbhata",
+            "postCode": "9430",
+            "bn_postOffice": "দেবভাটা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Debbhata",
+            "postOffice": "Gurugram",
+            "postCode": "9431",
+            "bn_postOffice": "গুরুগ্রাম"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "Chandanpur",
+            "postCode": "9415",
+            "bn_postOffice": "চন্দনপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "Hamidpur",
+            "postCode": "9413",
+            "bn_postOffice": "হামিদপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "Jhaudanga",
+            "postCode": "9412",
+            "bn_postOffice": "ঝাউডাঙ্গা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "kalaroa",
+            "postCode": "9410",
+            "bn_postOffice": "কালারোয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "Khordo",
+            "postCode": "9414",
+            "bn_postOffice": "খোরদো"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "kalaroa",
+            "postOffice": "Murarikati",
+            "postCode": "9411",
+            "bn_postOffice": "মুরারিকাতি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Kaliganj UPO",
+            "postOffice": "Kaliganj UPO",
+            "postCode": "9440",
+            "bn_postOffice": "কালীগঞ্জ ইউপিও"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Kaliganj UPO",
+            "postOffice": "Nalta Mubaroknagar",
+            "postCode": "9441",
+            "bn_postOffice": "নলতা মুবারকনগর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Kaliganj UPO",
+            "postOffice": "Ratanpur",
+            "postCode": "9442",
+            "bn_postOffice": "রতনপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Buri Goalini",
+            "postCode": "9453",
+            "bn_postOffice": "বুরি গোয়ালিনি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Gabura",
+            "postCode": "9454",
+            "bn_postOffice": "গাবুরা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Habinagar",
+            "postCode": "9455",
+            "bn_postOffice": "হবিনগর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Nakipur",
+            "postCode": "9450",
+            "bn_postOffice": "নকিপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Naobeki",
+            "postCode": "9452",
+            "bn_postOffice": "নাওবেকি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Nakipur",
+            "postOffice": "Noornagar",
+            "postCode": "9451",
+            "bn_postOffice": "নূরনগর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Satkhira Sadar",
+            "postOffice": "Budhhat",
+            "postCode": "9403",
+            "bn_postOffice": "বুধহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Satkhira Sadar",
+            "postOffice": "Gunakar kati",
+            "postCode": "9402",
+            "bn_postOffice": "গুণকর কাটি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Satkhira Sadar",
+            "postOffice": "Satkhira Islamia Acc",
+            "postCode": "9401",
+            "bn_postOffice": "সাতক্ষীরা ইসলামিয়া অ্যাক."
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Satkhira Sadar",
+            "postOffice": "Satkhira Sadar",
+            "postCode": "9400",
+            "bn_postOffice": "সাতক্ষীরা সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Taala",
+            "postOffice": "Patkelghata",
+            "postCode": "9421",
+            "bn_postOffice": "পাটকেলঘাটা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "64",
+            "upazila": "Taala",
+            "postOffice": "Taala",
+            "postCode": "9420",
+            "bn_postOffice": "তালা"
+        }
+    ]
+}

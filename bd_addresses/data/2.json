@@ -1,0 +1,140 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Alfadanga",
+            "postOffice": "Alfadanga",
+            "postCode": "7870",
+            "bn_postOffice": "আলফাডাঙ্গা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Bhanga",
+            "postOffice": "Bhanga",
+            "postCode": "7830",
+            "bn_postOffice": "ভাঙা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Boalmari",
+            "postOffice": "Boalmari",
+            "postCode": "7860",
+            "bn_postOffice": "বোয়ালমারি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Boalmari",
+            "postOffice": "Rupatpat",
+            "postCode": "7861",
+            "bn_postOffice": "রূপপাত"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Charbhadrasan",
+            "postOffice": "Charbadrashan",
+            "postCode": "7810",
+            "bn_postOffice": "চরবদ্রাশন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Faridpur Sadar",
+            "postOffice": "Ambikapur",
+            "postCode": "7802",
+            "bn_postOffice": "অম্বিকাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Faridpur Sadar",
+            "postOffice": "Baitulaman Politecni",
+            "postCode": "7803",
+            "bn_postOffice": "বাইতুলমান পলিটেকনিক"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Faridpur Sadar",
+            "postOffice": "Faridpursadar",
+            "postCode": "7800",
+            "bn_postOffice": "ফরিদপুর সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Faridpur Sadar",
+            "postOffice": "Kanaipur",
+            "postCode": "7801",
+            "bn_postOffice": "কানাইপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Madukhali",
+            "postOffice": "Kamarkali",
+            "postCode": "7851",
+            "bn_postOffice": "কামারকালি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Madukhali",
+            "postOffice": "Madukhali",
+            "postCode": "7850",
+            "bn_postOffice": "মাদুখালি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Nagarkanda",
+            "postOffice": "Nagarkanda",
+            "postCode": "7840",
+            "bn_postOffice": "নগরকান্দা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Nagarkanda",
+            "postOffice": "Talma",
+            "postCode": "7841",
+            "bn_postOffice": "তালমা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Sadarpur",
+            "postOffice": "Bishwa jaker Manjil",
+            "postCode": "7822",
+            "bn_postOffice": "বিশ্ব জাকের মঞ্জিল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Sadarpur",
+            "postOffice": "Hat Krishapur",
+            "postCode": "7821",
+            "bn_postOffice": "হাট কৃষাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Sadarpur",
+            "postOffice": "Sadarpur",
+            "postCode": "7820",
+            "bn_postOffice": "সদরপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "2",
+            "upazila": "Shriangan",
+            "postOffice": "Shriangan",
+            "postCode": "7804",
+            "bn_postOffice": "শ্রীয়াঙ্গন"
+        }
+    ]
+}

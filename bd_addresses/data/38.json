@@ -1,0 +1,124 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Bauphal",
+            "postOffice": "Bagabandar",
+            "postCode": "8621",
+            "bn_postOffice": "বাগবন্দর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Bauphal",
+            "postOffice": "Bauphal",
+            "postCode": "8620",
+            "bn_postOffice": "বাউফল"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Bauphal",
+            "postOffice": "Birpasha",
+            "postCode": "8622",
+            "bn_postOffice": "বীরপাশা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Bauphal",
+            "postOffice": "Kalaia",
+            "postCode": "8624",
+            "bn_postOffice": "কালাইয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Bauphal",
+            "postOffice": "Kalishari",
+            "postCode": "8623",
+            "bn_postOffice": "কালিশারি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Dashmina",
+            "postOffice": "Dashmina",
+            "postCode": "8630",
+            "bn_postOffice": "দশমিনা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Galachipa",
+            "postOffice": "Galachipa",
+            "postCode": "8640",
+            "bn_postOffice": "গলাচিপা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Galachipa",
+            "postOffice": "Gazipur Bandar",
+            "postCode": "8641",
+            "bn_postOffice": "গাজীপুর বন্দর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Khepupara",
+            "postOffice": "Khepupara",
+            "postCode": "8650",
+            "bn_postOffice": "খেপুপাড়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Khepupara",
+            "postOffice": "Mahipur",
+            "postCode": "8651",
+            "bn_postOffice": "মহিপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Patuakhali Sadar",
+            "postOffice": "Dumkee",
+            "postCode": "8602",
+            "bn_postOffice": "দুমকি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Patuakhali Sadar",
+            "postOffice": "Moukaran",
+            "postCode": "8601",
+            "bn_postOffice": "মৌকারান"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Patuakhali Sadar",
+            "postOffice": "Patuakhali Sadar",
+            "postCode": "8600",
+            "bn_postOffice": "পটুয়াখালী সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Patuakhali Sadar",
+            "postOffice": "Rahimabad",
+            "postCode": "8603",
+            "bn_postOffice": "রহিমাবাদ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "38",
+            "upazila": "Subidkhali",
+            "postOffice": "Subidkhali",
+            "postCode": "8610",
+            "bn_postOffice": "সুবিদখালী"
+        }
+    ]
+}

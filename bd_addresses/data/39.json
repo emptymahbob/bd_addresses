@@ -1,0 +1,196 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Banaripara",
+            "postOffice": "Banaripara",
+            "postCode": "8530",
+            "bn_postOffice": "বানারীপাড়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Banaripara",
+            "postOffice": "Chakhar",
+            "postCode": "8531",
+            "bn_postOffice": "চাখার"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Bhandaria",
+            "postOffice": "Bhandaria",
+            "postCode": "8550",
+            "bn_postOffice": "ভান্ডারিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Bhandaria",
+            "postOffice": "Dhaoa",
+            "postCode": "8552",
+            "bn_postOffice": "ধোয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Bhandaria",
+            "postOffice": "Kanudashkathi",
+            "postCode": "8551",
+            "bn_postOffice": "কানুদশকাঠি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "kaukhali",
+            "postOffice": "Jolagati",
+            "postCode": "8513",
+            "bn_postOffice": "জোলাগাতি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "kaukhali",
+            "postOffice": "Joykul",
+            "postCode": "8512",
+            "bn_postOffice": "জয়কুল"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "kaukhali",
+            "postOffice": "Kaukhali",
+            "postCode": "8510",
+            "bn_postOffice": "কাউখালী"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "kaukhali",
+            "postOffice": "Keundia",
+            "postCode": "8511",
+            "bn_postOffice": "কেউন্দিয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Betmor Natun Hat",
+            "postCode": "8565",
+            "bn_postOffice": "বেটমোর নাতুন টুপি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Gulishakhali",
+            "postCode": "8563",
+            "bn_postOffice": "গুলিশাখালী"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Halta",
+            "postCode": "8562",
+            "bn_postOffice": "হালতা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Mathbaria",
+            "postCode": "8560",
+            "bn_postOffice": "মঠবাড়িয়া"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Shilarganj",
+            "postCode": "8566",
+            "bn_postOffice": "শিলারগঞ্জ"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Tiarkhali",
+            "postCode": "8564",
+            "bn_postOffice": "টিয়ারখালী"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Mathbaria",
+            "postOffice": "Tushkhali",
+            "postCode": "8561",
+            "bn_postOffice": "তুষখালী"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Nazirpur",
+            "postOffice": "Nazirpur",
+            "postCode": "8540",
+            "bn_postOffice": "নাজিরপুর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Nazirpur",
+            "postOffice": "Sriramkathi",
+            "postCode": "8541",
+            "bn_postOffice": "শ্রীরামকাঠি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Pirojpur Sadar",
+            "postOffice": "Hularhat",
+            "postCode": "8501",
+            "bn_postOffice": "হুলারহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Pirojpur Sadar",
+            "postOffice": "Parerhat",
+            "postCode": "8502",
+            "bn_postOffice": "পারেরহাট"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Pirojpur Sadar",
+            "postOffice": "Pirojpur Sadar",
+            "postCode": "8500",
+            "bn_postOffice": "পিরোজপুর সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Swarupkathi",
+            "postOffice": "Darus Sunnat",
+            "postCode": "8521",
+            "bn_postOffice": "দারুস সুন্নাত"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Swarupkathi",
+            "postOffice": "Jalabari",
+            "postCode": "8523",
+            "bn_postOffice": "জলবাড়ি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "39",
+            "upazila": "Swarupkathi",
+            "postOffice": "Kaurikhara",
+            "postCode": "8522",
+            "bn_postOffice": "কৌরিখারা"
+        }
+    ]
+}

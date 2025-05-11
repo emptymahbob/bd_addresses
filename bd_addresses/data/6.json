@@ -1,0 +1,172 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Bajitpur",
+            "postOffice": "Bajitpur",
+            "postCode": "2336",
+            "bn_postOffice": "বাজিতপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Bajitpur",
+            "postOffice": "Laksmipur",
+            "postCode": "2338",
+            "bn_postOffice": "লক্ষ্মীপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Bajitpur",
+            "postOffice": "Sararchar",
+            "postCode": "2337",
+            "bn_postOffice": "সরারচর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Bhairob",
+            "postOffice": "Bhairab",
+            "postCode": "2350",
+            "bn_postOffice": "ভৈরব"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Hossenpur",
+            "postOffice": "Hossenpur",
+            "postCode": "2320",
+            "bn_postOffice": "হোসেনপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Itna",
+            "postOffice": "Itna",
+            "postCode": "2390",
+            "bn_postOffice": "ইটনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Karimganj",
+            "postOffice": "Karimganj",
+            "postCode": "2310",
+            "bn_postOffice": "করিমগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Katiadi",
+            "postOffice": "Gochhihata",
+            "postCode": "2331",
+            "bn_postOffice": "গোছিহাটা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Katiadi",
+            "postOffice": "Katiadi",
+            "postCode": "2330",
+            "bn_postOffice": "কাটিয়াদি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kishoreganj Sadar",
+            "postOffice": "Kishoreganj S.Mills",
+            "postCode": "2301",
+            "bn_postOffice": "কিশোরগঞ্জ এস. মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kishoreganj Sadar",
+            "postOffice": "Kishoreganj Sadar",
+            "postCode": "2300",
+            "bn_postOffice": "কিশোরগঞ্জ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kishoreganj Sadar",
+            "postOffice": "Maizhati",
+            "postCode": "2302",
+            "bn_postOffice": "মাইজহাটি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kishoreganj Sadar",
+            "postOffice": "Nilganj",
+            "postCode": "2303",
+            "bn_postOffice": "নীলগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kuliarchar",
+            "postOffice": "Chhoysuti",
+            "postCode": "2341",
+            "bn_postOffice": "ছয়সুতি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Kuliarchar",
+            "postOffice": "Kuliarchar",
+            "postCode": "2340",
+            "bn_postOffice": "কুলিয়ারচর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Mithamoin",
+            "postOffice": "Abdullahpur",
+            "postCode": "2371",
+            "bn_postOffice": "আবদুল্লাহপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Mithamoin",
+            "postOffice": "MIthamoin",
+            "postCode": "2370",
+            "bn_postOffice": "মিথামোইন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Nikli",
+            "postOffice": "Nikli",
+            "postCode": "2360",
+            "bn_postOffice": "নিকলি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Ostagram",
+            "postOffice": "Ostagram",
+            "postCode": "2380",
+            "bn_postOffice": "অস্টাগ্রাম"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Pakundia",
+            "postOffice": "Pakundia",
+            "postCode": "2326",
+            "bn_postOffice": "পাকুন্দিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "6",
+            "upazila": "Tarial",
+            "postOffice": "Tarial",
+            "postCode": "2316",
+            "bn_postOffice": "তারিয়াল"
+        }
+    ]
+}

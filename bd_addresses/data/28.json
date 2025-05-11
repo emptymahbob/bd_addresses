@@ -1,0 +1,108 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Bhurungamari",
+            "postOffice": "Bhurungamari",
+            "postCode": "5670",
+            "bn_postOffice": "ভুরুঙ্গামারী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Chilmari",
+            "postOffice": "Chilmari",
+            "postCode": "5630",
+            "bn_postOffice": "চিলমারি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Chilmari",
+            "postOffice": "Jorgachh",
+            "postCode": "5631",
+            "bn_postOffice": "জোড়গাছ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Kurigram Sadar",
+            "postOffice": "Kurigram Sadar",
+            "postCode": "5600",
+            "bn_postOffice": "কুড়িগ্রাম সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Kurigram Sadar",
+            "postOffice": "Pandul",
+            "postCode": "5601",
+            "bn_postOffice": "পান্ডুল"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Kurigram Sadar",
+            "postOffice": "Phulbari",
+            "postCode": "5680",
+            "bn_postOffice": "ফুলবাড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Nageshwar",
+            "postOffice": "Nageshwar",
+            "postCode": "5660",
+            "bn_postOffice": "নাগেশ্বর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Rajarhat",
+            "postOffice": "Nazimkhan",
+            "postCode": "5611",
+            "bn_postOffice": "নাজিমখান"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Rajarhat",
+            "postOffice": "Rajarhat",
+            "postCode": "5610",
+            "bn_postOffice": "রাজারহাট"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Rajibpur",
+            "postOffice": "Rajibpur",
+            "postCode": "5650",
+            "bn_postOffice": "রাজীবপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Roumari",
+            "postOffice": "Roumari",
+            "postCode": "5640",
+            "bn_postOffice": "রৌমারী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Ulipur",
+            "postOffice": "Bazarhat",
+            "postCode": "5621",
+            "bn_postOffice": "বাজারহাট"
+        },
+        {
+            "division_id": "6",
+            "district_id": "28",
+            "upazila": "Ulipur",
+            "postOffice": "Ulipur",
+            "postCode": "5620",
+            "bn_postOffice": "উলিপুর"
+        }
+    ]
+}

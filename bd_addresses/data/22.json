@@ -1,0 +1,52 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Bholahat",
+            "postOffice": "Bholahat",
+            "postCode": "6330",
+            "bn_postOffice": "ভোলাহাট"
+        },
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Chapainawabganj Sadar",
+            "postOffice": "Chapainawabganj Sadar",
+            "postCode": "6300",
+            "bn_postOffice": "চাঁপাইনবাবগঞ্জ সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Chapainawabganj Sadar",
+            "postOffice": "Rohanpur",
+            "postCode": "6301",
+            "bn_postOffice": "রোহনপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Gomastapur",
+            "postOffice": "Gomastapur",
+            "postCode": "6320",
+            "bn_postOffice": "গোমস্তাপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Nachole",
+            "postOffice": "Nachole",
+            "postCode": "6310",
+            "bn_postOffice": "নাচোল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "22",
+            "upazila": "Shibganj",
+            "postOffice": "Shibganj",
+            "postCode": "6340",
+            "bn_postOffice": "শিবগঞ্জ"
+        }
+    ]
+}

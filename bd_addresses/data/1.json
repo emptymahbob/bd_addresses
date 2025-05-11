@@ -1,0 +1,1020 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Demra",
+            "postCode": "1360",
+            "bn_postOffice": "ডেমরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Sanarpar",
+            "postCode": "",
+            "bn_postOffice": "সানারপাড়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Paradgair",
+            "postCode": "",
+            "bn_postOffice": "প্যারাডগায়ার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Jatramura",
+            "postCode": "",
+            "bn_postOffice": "যাত্রামুরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Matuail",
+            "postCode": "1362",
+            "bn_postOffice": "মাতুয়াইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Demra",
+            "postOffice": "Sarulia",
+            "postCode": "1361",
+            "bn_postOffice": "সারুলিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhaka Cantt.",
+            "postOffice": "Dhaka CantonmentTSO",
+            "postCode": "1206",
+            "bn_postOffice": "ঢাকা সেনানিবাস টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Dhamrai",
+            "postCode": "1350",
+            "bn_postOffice": "ধামরাই"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Balia",
+            "postCode": "",
+            "bn_postOffice": "বালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Amta",
+            "postCode": "",
+            "bn_postOffice": "আমতা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Dimukha",
+            "postCode": "",
+            "bn_postOffice": "দিমুখা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Barigaon",
+            "postCode": "",
+            "bn_postOffice": "বারিগাঁও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Toperbari",
+            "postCode": "1350",
+            "bn_postOffice": "টোপের বাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Suapur",
+            "postCode": "",
+            "bn_postOffice": "সুয়াপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Deldha",
+            "postCode": "",
+            "bn_postOffice": "দেলধা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Shoilain",
+            "postCode": "",
+            "bn_postOffice": "শৈলাইন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Jadabpur",
+            "postCode": "",
+            "bn_postOffice": "যাদবপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Berosh",
+            "postCode": "",
+            "bn_postOffice": "বেরোশ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Bannal",
+            "postCode": "",
+            "bn_postOffice": "বান্নল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Mangalbari",
+            "postCode": "",
+            "bn_postOffice": "মঙ্গলবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Nannar",
+            "postCode": "",
+            "bn_postOffice": "নান্নার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Jalsin",
+            "postCode": "",
+            "bn_postOffice": "জলসিন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Rowail",
+            "postCode": "",
+            "bn_postOffice": "রোয়াইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Kathaliya Nabogram",
+            "postCode": "",
+            "bn_postOffice": "কাঠালীয়া নবগ্রাম"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Sanora",
+            "postCode": "",
+            "bn_postOffice": "সানোরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Nowga Bazar",
+            "postCode": "",
+            "bn_postOffice": "নওগা বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Gangutiya",
+            "postCode": "",
+            "bn_postOffice": "গাঙ্গুটিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Jalsha",
+            "postCode": "",
+            "bn_postOffice": "জালসা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Belishwar",
+            "postCode": "",
+            "bn_postOffice": "বেলীশ্বর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Chauhat",
+            "postCode": "",
+            "bn_postOffice": "চৌহাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Rajapur",
+            "postCode": "",
+            "bn_postOffice": "রাজাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhamrai",
+            "postOffice": "Kamalpur",
+            "postCode": "1351",
+            "bn_postOffice": "কামালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Dhanmondi",
+            "postOffice": "Jigatala TSO",
+            "postCode": "1209",
+            "bn_postOffice": "জিগাতলা টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Gulshan",
+            "postOffice": "Banani TSO",
+            "postCode": "1213",
+            "bn_postOffice": "বনানী টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Gulshan",
+            "postOffice": "Gulshan Model Town",
+            "postCode": "1212",
+            "bn_postOffice": "গুলশান মডেল টাউন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Jatrabari",
+            "postOffice": "Dhania TSO",
+            "postCode": "1232",
+            "bn_postOffice": "ধনিয়া টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Al-Amin Bazar",
+            "postCode": "",
+            "bn_postOffice": "আল-আমিন বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Harichandi",
+            "postCode": "",
+            "bn_postOffice": "হরিচণ্ডী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Dohar",
+            "postCode": "1330",
+            "bn_postOffice": "দোহার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Meghula",
+            "postCode": "",
+            "bn_postOffice": "মেঘুলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Mokshedpur",
+            "postCode": "1333",
+            "bn_postOffice": "মোক্ষেদপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Jamalchar",
+            "postCode": "",
+            "bn_postOffice": "জামালচর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Dokkhin Braha",
+            "postCode": "",
+            "bn_postOffice": "দোখিন ব্রাহা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Kusumhati",
+            "postCode": "",
+            "bn_postOffice": "কুসুমহাটি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Aorangabad",
+            "postCode": "",
+            "bn_postOffice": "আওরঙ্গাবাদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Narisha",
+            "postCode": "1332",
+            "bn_postOffice": "নারিশা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Joypara",
+            "postOffice": "Palamganj",
+            "postCode": "1331",
+            "bn_postOffice": "পালামগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Keraniganj",
+            "postOffice": "Ati",
+            "postCode": "1312",
+            "bn_postOffice": "আতি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Keraniganj",
+            "postOffice": "Dhaka Jute Mills",
+            "postCode": "1311",
+            "bn_postOffice": "ঢাকা জুট মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Keraniganj",
+            "postOffice": "Kalatia",
+            "postCode": "1313",
+            "bn_postOffice": "কালাতিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Keraniganj",
+            "postOffice": "Keraniganj",
+            "postCode": "1310",
+            "bn_postOffice": "কেরানীগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Khilgaon",
+            "postOffice": "KhilgaonTSO",
+            "postCode": "1219",
+            "bn_postOffice": "খিলগাঁও টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Khilkhet",
+            "postOffice": "KhilkhetTSO",
+            "postCode": "1229",
+            "bn_postOffice": "খিলক্ষেতTSO"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Lalbag",
+            "postOffice": "Posta TSO",
+            "postCode": "1211",
+            "bn_postOffice": "পোস্টা টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Mirpur",
+            "postOffice": "Mirpur TSO",
+            "postCode": "1216",
+            "bn_postOffice": "মিরপুর টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Mohammadpur",
+            "postOffice": "Mohammadpur Housing",
+            "postCode": "1207",
+            "bn_postOffice": "মোহাম্মদপুর হাউজিং"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Mohammadpur",
+            "postOffice": "Sangsad BhabanTSO",
+            "postCode": "1225",
+            "bn_postOffice": "সংসদ ভবনটিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Motijheel",
+            "postOffice": "BangabhabanTSO",
+            "postCode": "1222",
+            "bn_postOffice": "বঙ্গভবনটিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Motijheel",
+            "postOffice": "DilkushaTSO",
+            "postCode": "1223",
+            "bn_postOffice": "দিলকুশাটিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Agla",
+            "postCode": "1323",
+            "bn_postOffice": "আগলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Churain",
+            "postCode": "1325",
+            "bn_postOffice": "চুরাইন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Daudpur",
+            "postCode": "1322",
+            "bn_postOffice": "দাউদপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Hasnabad",
+            "postCode": "1321",
+            "bn_postOffice": "হাসনাবাদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Khalpar",
+            "postCode": "1324",
+            "bn_postOffice": "খালপার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Nawabgonj",
+            "postCode": "1320",
+            "bn_postOffice": "নবাবগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Kolakopa",
+            "postCode": "",
+            "bn_postOffice": "কোলাকোপা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Gobindopur",
+            "postCode": "",
+            "bn_postOffice": "গোবিন্দপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Galimpur",
+            "postCode": "",
+            "bn_postOffice": "গালিমপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Choto Box Nagar",
+            "postCode": "",
+            "bn_postOffice": "ছোট বক্স নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Jalalchar",
+            "postCode": "",
+            "bn_postOffice": "জালালচর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Paragram",
+            "postCode": "",
+            "bn_postOffice": "প্যারাগ্রাম"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Braha",
+            "postCode": "",
+            "bn_postOffice": "ব্রাহা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Bardhanpara",
+            "postCode": "",
+            "bn_postOffice": "বর্ধনপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Mohabbatpur",
+            "postCode": "",
+            "bn_postOffice": "মহব্বতপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Mashail",
+            "postCode": "",
+            "bn_postOffice": "মাশায়েল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Sholla",
+            "postCode": "",
+            "bn_postOffice": "শোল্লা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Kailail",
+            "postCode": "",
+            "bn_postOffice": "কাইলাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Aona",
+            "postCode": "",
+            "bn_postOffice": "আওনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Patiljhap",
+            "postCode": "",
+            "bn_postOffice": "পাতিলঝাপ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Meleng",
+            "postCode": "",
+            "bn_postOffice": "মেলেং"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Dakkhin Balukhondo",
+            "postCode": "",
+            "bn_postOffice": "দক্ষিণ বালুখন্ডো"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Khanepur",
+            "postCode": "",
+            "bn_postOffice": "খানপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Dewtola",
+            "postCode": "",
+            "bn_postOffice": "দেওতোলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Kuthuri",
+            "postCode": "",
+            "bn_postOffice": "কুথুরি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Joykrishnapur",
+            "postCode": "",
+            "bn_postOffice": "জয়কৃষ্ণপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Karpara",
+            "postCode": "",
+            "bn_postOffice": "কার্পারা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Shikaripara",
+            "postCode": "",
+            "bn_postOffice": "শিকারিপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Hat Baruakhali",
+            "postCode": "",
+            "bn_postOffice": "হাট বরুয়াখালী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Tasulla Banglabazar",
+            "postCode": "",
+            "bn_postOffice": "তাসুল্লা বাংলাবাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Nawabgonj",
+            "postOffice": "Khalpur EDSO",
+            "postCode": "",
+            "bn_postOffice": "খালপুর ইডিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "New market",
+            "postOffice": "New Market TSO",
+            "postCode": "1205",
+            "bn_postOffice": "নিউ মার্কেট টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Palton",
+            "postOffice": "Dhaka GPO",
+            "postCode": "1000",
+            "bn_postOffice": "ঢাকা জিপিও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Ramna",
+            "postOffice": "Shantinagr TSO",
+            "postCode": "1217",
+            "bn_postOffice": "শান্তিনগর টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Sabujbag",
+            "postOffice": "Basabo TSO",
+            "postCode": "1214",
+            "bn_postOffice": "বাসাবো টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Amin Bazar",
+            "postCode": "1348",
+            "bn_postOffice": "আমিন বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Dairy Farm",
+            "postCode": "1341",
+            "bn_postOffice": "দুগ্ধ খামার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "EPZ",
+            "postCode": "1349",
+            "bn_postOffice": "ইপিজেড"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Jahangirnagar University",
+            "postCode": "1342",
+            "bn_postOffice": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Kashem Cotton Mills",
+            "postCode": "1346",
+            "bn_postOffice": "কাশেম কটন মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Rajfulbaria",
+            "postCode": "1347",
+            "bn_postOffice": "রাজফুলবাড়িয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Savar",
+            "postCode": "1340",
+            "bn_postOffice": "সাভার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Savar Canttonment",
+            "postCode": "1344",
+            "bn_postOffice": "সাভার সেনানিবাস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Saver P.A.T.C",
+            "postCode": "1343",
+            "bn_postOffice": "সেভার পিএটিসি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Shimulia",
+            "postCode": "1345",
+            "bn_postOffice": "শিমুলিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Vakurta",
+            "postCode": "",
+            "bn_postOffice": "ভাকুর্তা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Rajashon",
+            "postCode": "",
+            "bn_postOffice": "রাজাশন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Hemayetpur",
+            "postCode": "",
+            "bn_postOffice": "হেমায়েতপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Moshurikhola",
+            "postCode": "",
+            "bn_postOffice": "মশুরিখোলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Shobahanbagh",
+            "postCode": "",
+            "bn_postOffice": "শোভাহানবাগ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Nayarhat",
+            "postCode": "",
+            "bn_postOffice": "নয়ারহাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Biruliya",
+            "postCode": "",
+            "bn_postOffice": "বিরুলিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Nagarkonda",
+            "postCode": "",
+            "bn_postOffice": "নাগরকোন্ডা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Ashuliya",
+            "postCode": "",
+            "bn_postOffice": "আশুলিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Zirabo",
+            "postCode": "",
+            "bn_postOffice": "জিরাবো"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "CRP Chapain",
+            "postCode": "",
+            "bn_postOffice": "সিআরপি চাপাইন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Mirzanagar",
+            "postCode": "",
+            "bn_postOffice": "মির্জানগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Senwaliya",
+            "postCode": "",
+            "bn_postOffice": "সেনওয়ালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Noihati Bazar",
+            "postCode": "1345",
+            "bn_postOffice": "নৈহাটি বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Karimpur",
+            "postCode": "",
+            "bn_postOffice": "করিমপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Uttor Gazirchat",
+            "postCode": "",
+            "bn_postOffice": "উত্তর গাজিরচ্যাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Savar",
+            "postOffice": "Dhamsona",
+            "postCode": "",
+            "bn_postOffice": "ধামসোনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Sutrapur",
+            "postOffice": "Dhaka Sadar HO",
+            "postCode": "1100",
+            "bn_postOffice": "ঢাকা সদর সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Sutrapur",
+            "postOffice": "Gendaria TSO",
+            "postCode": "1204",
+            "bn_postOffice": "জেন্ডারিয়া টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Sutrapur",
+            "postOffice": "Wari TSO",
+            "postCode": "1203",
+            "bn_postOffice": "ওয়ারী টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Tejgaon",
+            "postOffice": "Tejgaon TSO",
+            "postCode": "1215",
+            "bn_postOffice": "তেজগাঁও টিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Tejgaon Industrial Area",
+            "postOffice": "Dhaka Politechnic",
+            "postCode": "1208",
+            "bn_postOffice": "ঢাকা পলিটেকনিক"
+        },
+        {
+            "division_id": "3",
+            "district_id": "1",
+            "upazila": "Uttara",
+            "postOffice": "Uttara Model TwonTSO",
+            "postCode": "1230",
+            "bn_postOffice": "উত্তরা মডেল টুইনটিএসও"
+        }
+    ]
+}

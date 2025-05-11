@@ -1,0 +1,148 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Doulatpur",
+            "postOffice": "Doulatpur",
+            "postCode": "1860",
+            "bn_postOffice": "দৌলতপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Gheor",
+            "postOffice": "Gheor",
+            "postCode": "1840",
+            "bn_postOffice": "ঘিওর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Lechhraganj",
+            "postOffice": "Jhitka",
+            "postCode": "1831",
+            "bn_postOffice": "ঝিটকা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Lechhraganj",
+            "postOffice": "Lechhraganj",
+            "postCode": "1830",
+            "bn_postOffice": "লেছড়াগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Manikganj Sadar",
+            "postOffice": "Barangail",
+            "postCode": "1804",
+            "bn_postOffice": "বড়ঙ্গাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Manikganj Sadar",
+            "postOffice": "Gorpara",
+            "postCode": "1802",
+            "bn_postOffice": "গোরপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Manikganj Sadar",
+            "postOffice": "Mahadebpur",
+            "postCode": "1803",
+            "bn_postOffice": "মহাদেবপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Manikganj Sadar",
+            "postOffice": "Manikganj Bazar",
+            "postCode": "1801",
+            "bn_postOffice": "মানিকগঞ্জ বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Manikganj Sadar",
+            "postOffice": "Manikganj Sadar",
+            "postCode": "1800",
+            "bn_postOffice": "মানিকগঞ্জ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Saturia",
+            "postOffice": "Baliati",
+            "postCode": "1811",
+            "bn_postOffice": "বালিয়াতি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Saturia",
+            "postOffice": "Saturia",
+            "postCode": "1810",
+            "bn_postOffice": "স্যাটুরিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Shibloya",
+            "postOffice": "Aricha",
+            "postCode": "1851",
+            "bn_postOffice": "আরিচা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Shibloya",
+            "postOffice": "Shibaloy",
+            "postCode": "1850",
+            "bn_postOffice": "শিবালয়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Shibloya",
+            "postOffice": "Tewta",
+            "postCode": "1852",
+            "bn_postOffice": "তেওতা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Shibloya",
+            "postOffice": "Uthli",
+            "postCode": "1853",
+            "bn_postOffice": "উথলি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Singari",
+            "postOffice": "Baira",
+            "postCode": "1821",
+            "bn_postOffice": "বাইরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Singari",
+            "postOffice": "joymantop",
+            "postCode": "1822",
+            "bn_postOffice": "জয়ম্যানটপ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "8",
+            "upazila": "Singari",
+            "postOffice": "Singair",
+            "postCode": "1820",
+            "bn_postOffice": "সিঙ্গাইর"
+        }
+    ]
+}

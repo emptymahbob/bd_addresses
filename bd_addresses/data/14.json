@@ -1,0 +1,76 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Baliakandi",
+            "postOffice": "Baliakandi",
+            "postCode": "7730",
+            "bn_postOffice": "বালিয়াকান্দি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Baliakandi",
+            "postOffice": "Nalia",
+            "postCode": "7731",
+            "bn_postOffice": "নালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Pangsha",
+            "postOffice": "Mrigibazar",
+            "postCode": "7723",
+            "bn_postOffice": "মৃগিবাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Pangsha",
+            "postOffice": "Pangsha",
+            "postCode": "7720",
+            "bn_postOffice": "পাংশা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Pangsha",
+            "postOffice": "Ramkol",
+            "postCode": "7721",
+            "bn_postOffice": "রামকোল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Pangsha",
+            "postOffice": "Ratandia",
+            "postCode": "7722",
+            "bn_postOffice": "রতনদিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Rajbari Sadar",
+            "postOffice": "Goalanda",
+            "postCode": "7710",
+            "bn_postOffice": "গোয়ালন্দ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Rajbari Sadar",
+            "postOffice": "Khankhanapur",
+            "postCode": "7711",
+            "bn_postOffice": "খানখানাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "14",
+            "upazila": "Rajbari Sadar",
+            "postOffice": "Rajbari Sadar",
+            "postCode": "7700",
+            "bn_postOffice": "রাজবাড়ী সদর"
+        }
+    ]
+}

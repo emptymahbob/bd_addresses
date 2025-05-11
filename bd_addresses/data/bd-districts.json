@@ -1,0 +1,388 @@
+{
+    "districts": [
+      {
+        "id": "1",
+        "name": "Dhaka",
+        "bn_name": "ঢাকা",
+        "division_id": "3"
+      },
+      {
+        "id": "2",
+        "name": "Faridpur",
+        "bn_name": "ফরিদপুর",
+        "division_id": "3"
+      },
+      {
+        "id": "3",
+        "name": "Gazipur",
+        "bn_name": "গাজীপুর",
+        "division_id": "3"
+      },
+      {
+        "id": "4",
+        "name": "Gopalganj",
+        "bn_name": "গোপালগঞ্জ",
+        "division_id": "3"
+      },
+      {
+        "id": "5",
+        "name": "Jamalpur",
+        "bn_name": "জামালপুর",
+        "division_id": "8"
+      },
+      {
+        "id": "6",
+        "name": "Kishoreganj",
+        "bn_name": "কিশোরগঞ্জ",
+        "division_id": "3"
+      },
+      {
+        "id": "7",
+        "name": "Madaripur",
+        "bn_name": "মাদারীপুর",
+        "division_id": "3"
+      },
+      {
+        "id": "8",
+        "name": "Manikganj",
+        "bn_name": "মানিকগঞ্জ",
+        "division_id": "3"
+      },
+      {
+        "id": "9",
+        "name": "Munshiganj",
+        "bn_name": "মুন্সিগঞ্জ",
+        "division_id": "3"
+      },
+      {
+        "id": "10",
+        "name": "Mymensingh",
+        "bn_name": "ময়মনসিংহ",
+        "division_id": "8"
+      },
+      {
+        "id": "11",
+        "name": "Narayanganj",
+        "bn_name": "নারায়ণগঞ্জ",
+        "division_id": "3"
+      },
+      {
+        "id": "12",
+        "name": "Narsingdi",
+        "bn_name": "নরসিংদী",
+        "division_id": "3"
+      },
+      {
+        "id": "13",
+        "name": "Netrokona",
+        "bn_name": "নেত্রকোণা",
+        "division_id": "8"
+      },
+      {
+        "id": "14",
+        "name": "Rajbari",
+        "bn_name": "রাজবাড়ি",
+        "division_id": "3"
+      },
+      {
+        "id": "15",
+        "name": "Shariatpur",
+        "bn_name": "শরীয়তপুর",
+        "division_id": "3"
+      },
+      {
+        "id": "16",
+        "name": "Sherpur",
+        "bn_name": "শেরপুর",
+        "division_id": "8"
+      },
+      {
+        "id": "17",
+        "name": "Tangail",
+        "bn_name": "টাঙ্গাইল",
+        "division_id": "3"
+      },
+      {
+        "id": "18",
+        "name": "Bogura",
+        "bn_name": "বগুড়া",
+        "division_id": "5"
+      },
+      {
+        "id": "19",
+        "name": "Joypurhat",
+        "bn_name": "জয়পুরহাট",
+        "division_id": "5"
+      },
+      {
+        "id": "20",
+        "name": "Naogaon",
+        "bn_name": "নওগাঁ",
+        "division_id": "5"
+      },
+      {
+        "id": "21",
+        "name": "Natore",
+        "bn_name": "নাটোর",
+        "division_id": "5"
+      },
+      {
+        "id": "22",
+        "name": "Nawabganj",
+        "bn_name": "নবাবগঞ্জ",
+        "division_id": "5"
+      },
+      {
+        "id": "23",
+        "name": "Pabna",
+        "bn_name": "পাবনা",
+        "division_id": "5"
+      },
+      {
+        "id": "24",
+        "name": "Rajshahi",
+        "bn_name": "রাজশাহী",
+        "division_id": "5"
+      },
+      {
+        "id": "25",
+        "name": "Sirajgonj",
+        "bn_name": "সিরাজগঞ্জ",
+        "division_id": "5"
+      },
+      {
+        "id": "26",
+        "name": "Dinajpur",
+        "bn_name": "দিনাজপুর",
+        "division_id": "6"
+      },
+      {
+        "id": "27",
+        "name": "Gaibandha",
+        "bn_name": "গাইবান্ধা",
+        "division_id": "6"
+      },
+      {
+        "id": "28",
+        "name": "Kurigram",
+        "bn_name": "কুড়িগ্রাম",
+        "division_id": "6"
+      },
+      {
+        "id": "29",
+        "name": "Lalmonirhat",
+        "bn_name": "লালমনিরহাট",
+        "division_id": "6"
+      },
+      {
+        "id": "30",
+        "name": "Nilphamari",
+        "bn_name": "নীলফামারী",
+        "division_id": "6"
+      },
+      {
+        "id": "31",
+        "name": "Panchagarh",
+        "bn_name": "পঞ্চগড়",
+        "division_id": "6"
+      },
+      {
+        "id": "32",
+        "name": "Rangpur",
+        "bn_name": "রংপুর",
+        "division_id": "6"
+      },
+      {
+        "id": "33",
+        "name": "Thakurgaon",
+        "bn_name": "ঠাকুরগাঁও",
+        "division_id": "6"
+      },
+      {
+        "id": "34",
+        "name": "Barguna",
+        "bn_name": "বরগুনা",
+        "division_id": "1"
+      },
+      {
+        "id": "35",
+        "name": "Barishal",
+        "bn_name": "বরিশাল",
+        "division_id": "1"
+      },
+      {
+        "id": "36",
+        "name": "Bhola",
+        "bn_name": "ভোলা",
+        "division_id": "1"
+      },
+      {
+        "id": "37",
+        "name": "Jhalokati",
+        "bn_name": "ঝালকাঠি",
+        "division_id": "1"
+      },
+      {
+        "id": "38",
+        "name": "Patuakhali",
+        "bn_name": "পটুয়াখালী",
+        "division_id": "1"
+      },
+      {
+        "id": "39",
+        "name": "Pirojpur",
+        "bn_name": "পিরোজপুর",
+        "division_id": "1"
+      },
+      {
+        "id": "40",
+        "name": "Bandarban",
+        "bn_name": "বান্দরবান",
+        "division_id": "2"
+      },
+      {
+        "id": "41",
+        "name": "Brahmanbaria",
+        "bn_name": "ব্রাহ্মণবাড়িয়া",
+        "division_id": "2"
+      },
+      {
+        "id": "42",
+        "name": "Chandpur",
+        "bn_name": "চাঁদপুর",
+        "division_id": "2"
+      },
+      {
+        "id": "43",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "division_id": "2"
+      },
+      {
+        "id": "44",
+        "name": "Cumilla",
+        "bn_name": "কুমিল্লা",
+        "division_id": "2"
+      },
+      {
+        "id": "45",
+        "name": "Cox's Bazar",
+        "bn_name": "কক্স বাজার",
+        "division_id": "2"
+      },
+      {
+        "id": "46",
+        "name": "Feni",
+        "bn_name": "ফেনী",
+        "division_id": "2"
+      },
+      {
+        "id": "47",
+        "name": "Khagrachari",
+        "bn_name": "খাগড়াছড়ি",
+        "division_id": "2"
+      },
+      {
+        "id": "48",
+        "name": "Lakshmipur",
+        "bn_name": "লক্ষ্মীপুর",
+        "division_id": "2"
+      },
+      {
+        "id": "49",
+        "name": "Noakhali",
+        "bn_name": "নোয়াখালী",
+        "division_id": "2"
+      },
+      {
+        "id": "50",
+        "name": "Rangamati",
+        "bn_name": "রাঙ্গামাটি",
+        "division_id": "2"
+      },
+      {
+        "id": "51",
+        "name": "Habiganj",
+        "bn_name": "হবিগঞ্জ",
+        "division_id": "7"
+      },
+      {
+        "id": "52",
+        "name": "Maulvibazar",
+        "bn_name": "মৌলভীবাজার",
+        "division_id": "7"
+      },
+      {
+        "id": "53",
+        "name": "Sunamganj",
+        "bn_name": "সুনামগঞ্জ",
+        "division_id": "7"
+      },
+      {
+        "id": "54",
+        "name": "Sylhet",
+        "bn_name": "সিলেট",
+        "division_id": "7"
+      },
+      {
+        "id": "55",
+        "name": "Bagerhat",
+        "bn_name": "বাগেরহাট",
+        "division_id": "4"
+      },
+      {
+        "id": "56",
+        "name": "Chuadanga",
+        "bn_name": "চুয়াডাঙ্গা",
+        "division_id": "4"
+      },
+      {
+        "id": "57",
+        "name": "Jashore",
+        "bn_name": "যশোর",
+        "division_id": "4"
+      },
+      {
+        "id": "58",
+        "name": "Jhenaidah",
+        "bn_name": "ঝিনাইদহ",
+        "division_id": "4"
+      },
+      {
+        "id": "59",
+        "name": "Khulna",
+        "bn_name": "খুলনা",
+        "division_id": "4"
+      },
+      {
+        "id": "60",
+        "name": "Kushtia",
+        "bn_name": "কুষ্টিয়া",
+        "division_id": "4"
+      },
+      {
+        "id": "61",
+        "name": "Magura",
+        "bn_name": "মাগুরা",
+        "division_id": "4"
+      },
+      {
+        "id": "62",
+        "name": "Meherpur",
+        "bn_name": "মেহেরপুর",
+        "division_id": "4"
+      },
+      {
+        "id": "63",
+        "name": "Narail",
+        "bn_name": "নড়াইল",
+        "division_id": "4"
+      },
+      {
+        "id": "64",
+        "name": "Satkhira",
+        "bn_name": "সাতক্ষীরা",
+        "division_id": "4"
+      }
+    ]
+  }

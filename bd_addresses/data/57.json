@@ -1,0 +1,172 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Bagharpara",
+            "postOffice": "Bagharpara",
+            "postCode": "7470",
+            "bn_postOffice": "বাঘারপাড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Bagharpara",
+            "postOffice": "Gouranagar",
+            "postCode": "7471",
+            "bn_postOffice": "গৌরনগর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Chaugachha",
+            "postOffice": "Chougachha",
+            "postCode": "7410",
+            "bn_postOffice": "চৌগাছা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Basundia",
+            "postCode": "7406",
+            "bn_postOffice": "বাসুন্দিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Chanchra",
+            "postCode": "7402",
+            "bn_postOffice": "চাঁচড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Churamankathi",
+            "postCode": "7407",
+            "bn_postOffice": "চুরামঙ্কাঠী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Jessore Airbach",
+            "postCode": "7404",
+            "bn_postOffice": "যশোর এয়ারবাচ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Jessore canttonment",
+            "postCode": "7403",
+            "bn_postOffice": "যশোর সেনানিবাস"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Jessore Sadar",
+            "postCode": "7400",
+            "bn_postOffice": "যশোর সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Jessore Upa-Shahar",
+            "postCode": "7401",
+            "bn_postOffice": "যশোর উপ-শহর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jessore Sadar",
+            "postOffice": "Rupdia",
+            "postCode": "7405",
+            "bn_postOffice": "রূপদিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Jhikargachha",
+            "postOffice": "Jhikargachha",
+            "postCode": "7420",
+            "bn_postOffice": "ঝিকরগাছা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Keshabpur",
+            "postOffice": "Keshobpur",
+            "postCode": "7450",
+            "bn_postOffice": "কেশবপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Monirampur",
+            "postOffice": "Monirampur",
+            "postCode": "7440",
+            "bn_postOffice": "মণিরামপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Noapara",
+            "postOffice": "Bhugilhat",
+            "postCode": "7462",
+            "bn_postOffice": "ভুগিলহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Noapara",
+            "postOffice": "Noapara",
+            "postCode": "7460",
+            "bn_postOffice": "নোয়াপাড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Noapara",
+            "postOffice": "Rajghat",
+            "postCode": "7461",
+            "bn_postOffice": "রাজঘাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Sarsa",
+            "postOffice": "Bag Achra",
+            "postCode": "7433",
+            "bn_postOffice": "ব্যাগ আচড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Sarsa",
+            "postOffice": "Benapole",
+            "postCode": "7431",
+            "bn_postOffice": "বেনাপোল"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Sarsa",
+            "postOffice": "Jadabpur",
+            "postCode": "7432",
+            "bn_postOffice": "যাদবপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "57",
+            "upazila": "Sarsa",
+            "postOffice": "Sarsa",
+            "postCode": "7430",
+            "bn_postOffice": "সারসা"
+        }
+    ]
+}

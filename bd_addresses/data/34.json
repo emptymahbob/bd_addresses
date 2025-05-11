@@ -1,0 +1,68 @@
+{
+    "postcodes": [
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Amtali",
+            "postOffice": "Amtali",
+            "postCode": "8710",
+            "bn_postOffice": "আমতলি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Bamna",
+            "postOffice": "Bamna",
+            "postCode": "8730",
+            "bn_postOffice": "বামনা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Barguna Sadar",
+            "postOffice": "Barguna Sadar",
+            "postCode": "8700",
+            "bn_postOffice": "বরগুনা সদর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Barguna Sadar",
+            "postOffice": "Nali Bandar",
+            "postCode": "8701",
+            "bn_postOffice": "নালি বন্দর"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Betagi",
+            "postOffice": "Betagi",
+            "postCode": "8740",
+            "bn_postOffice": "বেতাগি"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Betagi",
+            "postOffice": "Darul Ulam",
+            "postCode": "8741",
+            "bn_postOffice": "দারুল উলাম"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Patharghata",
+            "postOffice": "Kakchira",
+            "postCode": "8721",
+            "bn_postOffice": "কাকচিরা"
+        },
+        {
+            "division_id": "1",
+            "district_id": "34",
+            "upazila": "Patharghata",
+            "postOffice": "Patharghata",
+            "postCode": "8720",
+            "bn_postOffice": "পাথরঘাটা"
+        }
+    ]
+}

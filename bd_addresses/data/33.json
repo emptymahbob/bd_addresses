@@ -1,0 +1,92 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Baliadangi",
+            "postOffice": "Baliadangi",
+            "postCode": "5140",
+            "bn_postOffice": "বালিয়াডাঙ্গি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Baliadangi",
+            "postOffice": "Lahiri",
+            "postCode": "5141",
+            "bn_postOffice": "লাহিড়ী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Jibanpur",
+            "postOffice": "Jibanpur",
+            "postCode": "5130",
+            "bn_postOffice": "জীবনপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Pirganj",
+            "postOffice": "Pirganj",
+            "postCode": "5110",
+            "bn_postOffice": "পীরগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Pirganj",
+            "postOffice": "Pirganj",
+            "postCode": "5470",
+            "bn_postOffice": "পীরগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Rani Sankail",
+            "postOffice": "Nekmarad",
+            "postCode": "5121",
+            "bn_postOffice": "নেকমারাদ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Rani Sankail",
+            "postOffice": "Rani Sankail",
+            "postCode": "5120",
+            "bn_postOffice": "রানী শংকাইল"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Thakurgaon Sadar",
+            "postOffice": "Ruhia",
+            "postCode": "5103",
+            "bn_postOffice": "রুহিয়া"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Thakurgaon Sadar",
+            "postOffice": "Shibganj",
+            "postCode": "5102",
+            "bn_postOffice": "শিবগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Thakurgaon Sadar",
+            "postOffice": "Thakurgaon Road",
+            "postCode": "5101",
+            "bn_postOffice": "ঠাকুরগাঁও রোড"
+        },
+        {
+            "division_id": "6",
+            "district_id": "33",
+            "upazila": "Thakurgaon Sadar",
+            "postOffice": "Thakurgaon Sadar",
+            "postCode": "5100",
+            "bn_postOffice": "ঠাকুরগাঁও সদর"
+        }
+    ]
+}

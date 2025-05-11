@@ -1,0 +1,796 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Anawara",
+            "postOffice": "Anowara",
+            "postCode": "4376",
+            "bn_postOffice": "আনোয়ারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Anawara",
+            "postOffice": "Battali",
+            "postCode": "4378",
+            "bn_postOffice": "বাটালি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Anawara",
+            "postOffice": "Paroikora",
+            "postCode": "4377",
+            "bn_postOffice": "পারোইকোরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Boalkhali",
+            "postCode": "4366",
+            "bn_postOffice": "বোয়ালখালী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Charandwip",
+            "postCode": "4369",
+            "bn_postOffice": "চরনদ্বীপ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Iqbal Park",
+            "postCode": "4365",
+            "bn_postOffice": "ইকবাল পার্ক"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Kadurkhal",
+            "postCode": "4368",
+            "bn_postOffice": "কাদুরখাল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Kanungopara",
+            "postCode": "4363",
+            "bn_postOffice": "কানুনগোপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Sakpura",
+            "postCode": "4367",
+            "bn_postOffice": "সাকপুরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Boalkhali",
+            "postOffice": "Saroatoli",
+            "postCode": "4364",
+            "bn_postOffice": "সারোআতোলি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Al- Amin Baria Madra",
+            "postCode": "4221",
+            "bn_postOffice": "আল-আমিন বারিয়া মাদ্রা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Amin Jute Mills",
+            "postCode": "4211",
+            "bn_postOffice": "আমিন জুট মিলস"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Anandabazar",
+            "postCode": "4215",
+            "bn_postOffice": "আনন্দবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Bayezid Bostami",
+            "postCode": "4210",
+            "bn_postOffice": "বায়েজিদ বোস্তামি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chandgaon",
+            "postCode": "4212",
+            "bn_postOffice": "চাঁদগাঁও"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chawkbazar",
+            "postCode": "4203",
+            "bn_postOffice": "চকবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chitt. Cantonment",
+            "postCode": "4220",
+            "bn_postOffice": "চিট সেনানিবাস"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chitt. Customs Acca",
+            "postCode": "4219",
+            "bn_postOffice": "চিট কাস্টমস আক্কা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chitt. Politechnic In",
+            "postCode": "4209",
+            "bn_postOffice": "চিট পলিটেকনিক ইন"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chitt. Sailers Colon",
+            "postCode": "4218",
+            "bn_postOffice": "চিট. নাবিকদের কোলন"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chittagong Airport",
+            "postCode": "4205",
+            "bn_postOffice": "চট্টগ্রাম বিমানবন্দর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chittagong Bandar",
+            "postCode": "4100",
+            "bn_postOffice": "চট্টগ্রাম বন্দর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Chittagong GPO",
+            "postCode": "4000",
+            "bn_postOffice": "চট্টগ্রাম জিপিও"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Export Processing",
+            "postCode": "4223",
+            "bn_postOffice": "রপ্তানি প্রক্রিয়াকরণ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Firozshah",
+            "postCode": "4207",
+            "bn_postOffice": "ফিরোজশাহ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Halishahar",
+            "postCode": "4216",
+            "bn_postOffice": "হালিশহর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Halishshar",
+            "postCode": "4225",
+            "bn_postOffice": "হালিশহর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Jalalabad",
+            "postCode": "4214",
+            "bn_postOffice": "জালালাবাদ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Jaldia Merine Accade",
+            "postCode": "4206",
+            "bn_postOffice": "জলদিয়া মেরিন অ্যাকেড"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Middle Patenga",
+            "postCode": "4222",
+            "bn_postOffice": "মধ্য পতেঙ্গা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Mohard",
+            "postCode": "4208",
+            "bn_postOffice": "মোহার্ড"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "North Halishahar",
+            "postCode": "4226",
+            "bn_postOffice": "উত্তর হালিশহর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "North Katuli",
+            "postCode": "4217",
+            "bn_postOffice": "উত্তর কাটুলি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Pahartoli",
+            "postCode": "4202",
+            "bn_postOffice": "পাহাড়তলি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Patenga",
+            "postCode": "4204",
+            "bn_postOffice": "পতেঙ্গা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Rampura TSO",
+            "postCode": "4224",
+            "bn_postOffice": "রামপুরা টিএসও"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Chittagong Sadar",
+            "postOffice": "Wazedia",
+            "postCode": "4213",
+            "bn_postOffice": "ওয়াজেডিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "East Joara",
+            "postOffice": "Barma",
+            "postCode": "4383",
+            "bn_postOffice": "বার্মা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "East Joara",
+            "postOffice": "Dohazari",
+            "postCode": "4382",
+            "bn_postOffice": "দোহাজারী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "East Joara",
+            "postOffice": "East Joara",
+            "postCode": "4380",
+            "bn_postOffice": "পূর্ব জোয়ারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "East Joara",
+            "postOffice": "Gachbaria",
+            "postCode": "4381",
+            "bn_postOffice": "গাছবাড়িয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Bhandar Sharif",
+            "postCode": "4352",
+            "bn_postOffice": "ভান্ডার শরীফ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Fatikchhari",
+            "postCode": "4350",
+            "bn_postOffice": "ফটিকছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Harualchhari",
+            "postCode": "4354",
+            "bn_postOffice": "হারুয়ালছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Najirhat",
+            "postCode": "4353",
+            "bn_postOffice": "নাজিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Nanupur",
+            "postCode": "4351",
+            "bn_postOffice": "নানুপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Fatikchhari",
+            "postOffice": "Narayanhat",
+            "postCode": "4355",
+            "bn_postOffice": "নারায়ণহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Chitt.University",
+            "postCode": "4331",
+            "bn_postOffice": "চিট.বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Fatahabad",
+            "postCode": "4335",
+            "bn_postOffice": "ফতেহাবাদ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Gorduara",
+            "postCode": "4332",
+            "bn_postOffice": "গোরদুয়ারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Hathazari",
+            "postCode": "4330",
+            "bn_postOffice": "হাটহাজারী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Katirhat",
+            "postCode": "4333",
+            "bn_postOffice": "কাটিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Madrasa",
+            "postCode": "4339",
+            "bn_postOffice": "মাদ্রাসা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Mirzapur",
+            "postCode": "4334",
+            "bn_postOffice": "মির্জাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Nuralibari",
+            "postCode": "4337",
+            "bn_postOffice": "নুরালিবাড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Hathazari",
+            "postOffice": "Yunus Nagar",
+            "postCode": "4338",
+            "bn_postOffice": "ইউনুস নগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Jaldi",
+            "postOffice": "Banigram",
+            "postCode": "4393",
+            "bn_postOffice": "বাণীগ্রাম"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Jaldi",
+            "postOffice": "Gunagari",
+            "postCode": "4392",
+            "bn_postOffice": "গুনাগরী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Jaldi",
+            "postOffice": "Jaldi",
+            "postCode": "4390",
+            "bn_postOffice": "জলদি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Jaldi",
+            "postOffice": "Khan Bahadur",
+            "postCode": "4391",
+            "bn_postOffice": "খান বাহাদুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Lohagara",
+            "postOffice": "Chunti",
+            "postCode": "4398",
+            "bn_postOffice": "চুনতি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Lohagara",
+            "postOffice": "Lohagara",
+            "postCode": "4396",
+            "bn_postOffice": "লোহাগাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Lohagara",
+            "postOffice": "Padua",
+            "postCode": "4397",
+            "bn_postOffice": "পদুয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Abutorab",
+            "postCode": "4321",
+            "bn_postOffice": "আবুতোরাব"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Azampur",
+            "postCode": "4325",
+            "bn_postOffice": "আজমপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Bharawazhat",
+            "postCode": "4323",
+            "bn_postOffice": "ভরওয়াজহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Darrogahat",
+            "postCode": "4322",
+            "bn_postOffice": "দারোগাহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Joarganj",
+            "postCode": "4324",
+            "bn_postOffice": "জোয়ারগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Korerhat",
+            "postCode": "4327",
+            "bn_postOffice": "কোরেরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Mirsharai",
+            "postCode": "4320",
+            "bn_postOffice": "মিরসরাই"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Mirsharai",
+            "postOffice": "Mohazanhat",
+            "postCode": "4328",
+            "bn_postOffice": "মোহাজানহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Patiya",
+            "postOffice": "Budhpara",
+            "postCode": "4371",
+            "bn_postOffice": "বুধপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Patiya",
+            "postOffice": "Patiya Head Office",
+            "postCode": "4370",
+            "bn_postOffice": "পটিয়া সদর দপ্তর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rangunia",
+            "postOffice": "Dhamair",
+            "postCode": "4361",
+            "bn_postOffice": "ধামাইর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rangunia",
+            "postOffice": "Rangunia",
+            "postCode": "4360",
+            "bn_postOffice": "রাঙ্গুনিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "B.I.T Post Office",
+            "postCode": "4349",
+            "bn_postOffice": "বিআইটি পোস্ট অফিস"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Beenajuri",
+            "postCode": "4341",
+            "bn_postOffice": "বিনাজুরি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Dewanpur",
+            "postCode": "4347",
+            "bn_postOffice": "দেওয়ানপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Fatepur",
+            "postCode": "4345",
+            "bn_postOffice": "ফতেপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Gahira",
+            "postCode": "4343",
+            "bn_postOffice": "গাহিরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Guzra Noapara",
+            "postCode": "4346",
+            "bn_postOffice": "গুজরা নোয়াপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "jagannath Hat",
+            "postCode": "4344",
+            "bn_postOffice": "জগন্নাথ হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Kundeshwari",
+            "postCode": "4342",
+            "bn_postOffice": "কুণ্ডেশ্বরী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Mohamuni",
+            "postCode": "4348",
+            "bn_postOffice": "মোহামুনি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Rouzan",
+            "postOffice": "Rouzan",
+            "postCode": "4340",
+            "bn_postOffice": "রাউজান"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sandwip",
+            "postOffice": "Sandwip",
+            "postCode": "4300",
+            "bn_postOffice": "সন্দ্বীপ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sandwip",
+            "postOffice": "Shiberhat",
+            "postCode": "4301",
+            "bn_postOffice": "শিবেরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sandwip",
+            "postOffice": "Urirchar",
+            "postCode": "4302",
+            "bn_postOffice": "উরিরচর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Satkania",
+            "postOffice": "Baitul Ijjat",
+            "postCode": "4387",
+            "bn_postOffice": "বাইতুল ইজ্জত"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Satkania",
+            "postOffice": "Bazalia",
+            "postCode": "4388",
+            "bn_postOffice": "বাজালিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Satkania",
+            "postOffice": "Satkania",
+            "postCode": "4386",
+            "bn_postOffice": "সাতকানিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Barabkunda",
+            "postCode": "4312",
+            "bn_postOffice": "বরবকুণ্ড"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Baroidhala",
+            "postCode": "4311",
+            "bn_postOffice": "বারোইধলা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Bawashbaria",
+            "postCode": "4313",
+            "bn_postOffice": "বাওয়াশবাড়িয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Bhatiari",
+            "postCode": "4315",
+            "bn_postOffice": "ভাটিয়ারী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Fouzdarhat",
+            "postCode": "4316",
+            "bn_postOffice": "ফৌজদারহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Jafrabad",
+            "postCode": "4317",
+            "bn_postOffice": "জাফরাবাদ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Kumira",
+            "postCode": "4314",
+            "bn_postOffice": "কুমিরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "43",
+            "upazila": "Sitakunda",
+            "postOffice": "Sitakunda",
+            "postCode": "4310",
+            "bn_postOffice": "সীতাকুণ্ড"
+        }
+    ]
+}

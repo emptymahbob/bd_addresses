@@ -1,0 +1,116 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Chiringga",
+            "postOffice": "Badarkali",
+            "postCode": "4742",
+            "bn_postOffice": "বদরকলি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Chiringga",
+            "postOffice": "Chiringga",
+            "postCode": "4740",
+            "bn_postOffice": "চিরিঙ্গা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Chiringga",
+            "postOffice": "Chiringga S.O",
+            "postCode": "4741",
+            "bn_postOffice": "চিরিঙ্গা এসও"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Chiringga",
+            "postOffice": "Malumghat",
+            "postCode": "4743",
+            "bn_postOffice": "মালুমঘাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Coxs Bazar Sadar",
+            "postOffice": "Coxs Bazar Sadar",
+            "postCode": "4700",
+            "bn_postOffice": "কক্সবাজার সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Coxs Bazar Sadar",
+            "postOffice": "Eidga",
+            "postCode": "4702",
+            "bn_postOffice": "ঈদগা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Coxs Bazar Sadar",
+            "postOffice": "Zhilanja",
+            "postCode": "4701",
+            "bn_postOffice": "ঝিলাঞ্জা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Gorakghat",
+            "postOffice": "Gorakghat",
+            "postCode": "4710",
+            "bn_postOffice": "গোরকঘাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Kutubdia",
+            "postOffice": "Kutubdia",
+            "postCode": "4720",
+            "bn_postOffice": "কুতুবদিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Ramu",
+            "postOffice": "Ramu",
+            "postCode": "4730",
+            "bn_postOffice": "রামু"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Teknaf",
+            "postOffice": "Hnila",
+            "postCode": "4761",
+            "bn_postOffice": "হ্নিলা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Teknaf",
+            "postOffice": "St.Martin",
+            "postCode": "4762",
+            "bn_postOffice": "সেন্ট মার্টিন"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Teknaf",
+            "postOffice": "Teknaf",
+            "postCode": "4760",
+            "bn_postOffice": "টেকনাফ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "45",
+            "upazila": "Ukhia",
+            "postOffice": "Ukhia",
+            "postCode": "4750",
+            "bn_postOffice": "উখিয়া"
+        }
+    ]
+}

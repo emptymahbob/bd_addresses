@@ -1,0 +1,76 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Aditmari",
+            "postOffice": "Aditmari",
+            "postCode": "5510",
+            "bn_postOffice": "আদিতমারী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Hatibandha",
+            "postOffice": "Hatibandha",
+            "postCode": "5530",
+            "bn_postOffice": "হাতীবান্ধা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Lalmonirhat Sadar",
+            "postOffice": "Kulaghat SO",
+            "postCode": "5502",
+            "bn_postOffice": "কুলাঘাট এসও"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Lalmonirhat Sadar",
+            "postOffice": "Lalmonirhat Sadar",
+            "postCode": "5500",
+            "bn_postOffice": "লালমনিরহাট সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Lalmonirhat Sadar",
+            "postOffice": "Moghalhat",
+            "postCode": "5501",
+            "bn_postOffice": "মোগলহাট"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Patgram",
+            "postOffice": "Baura",
+            "postCode": "5541",
+            "bn_postOffice": "বাউরা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Patgram",
+            "postOffice": "Burimari",
+            "postCode": "5542",
+            "bn_postOffice": "বুড়িমারী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Patgram",
+            "postOffice": "Patgram",
+            "postCode": "5540",
+            "bn_postOffice": "পাটগ্রাম"
+        },
+        {
+            "division_id": "6",
+            "district_id": "29",
+            "upazila": "Tushbhandar",
+            "postOffice": "Tushbhandar",
+            "postCode": "5520",
+            "bn_postOffice": "তুষভাণ্ডার"
+        }
+    ]
+}

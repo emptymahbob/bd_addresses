@@ -1,0 +1,308 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Barura",
+            "postOffice": "Barura",
+            "postCode": "3560",
+            "bn_postOffice": "বারুরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Barura",
+            "postOffice": "Murdafarganj",
+            "postCode": "3562",
+            "bn_postOffice": "মুরদাফরগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Barura",
+            "postOffice": "Poyalgachha",
+            "postCode": "3561",
+            "bn_postOffice": "পয়ালগাছা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Brahmanpara",
+            "postOffice": "Brahmanpara",
+            "postCode": "3526",
+            "bn_postOffice": "ব্রাহ্মণপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Burichang",
+            "postOffice": "Burichang",
+            "postCode": "3520",
+            "bn_postOffice": "বুড়িচং"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Burichang",
+            "postOffice": "Maynamoti bazar",
+            "postCode": "3521",
+            "bn_postOffice": "ময়নামতি বাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Chandina",
+            "postOffice": "Chandia",
+            "postCode": "3510",
+            "bn_postOffice": "চান্দিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Chandina",
+            "postOffice": "Madhaiabazar",
+            "postCode": "3511",
+            "bn_postOffice": "মাধাইবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Chouddagram",
+            "postOffice": "Batisa",
+            "postCode": "3551",
+            "bn_postOffice": "বাতিসা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Chouddagram",
+            "postOffice": "Chiora",
+            "postCode": "3552",
+            "bn_postOffice": "চিওরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Chouddagram",
+            "postOffice": "Chouddagram",
+            "postCode": "3550",
+            "bn_postOffice": "চৌদ্দগ্রাম"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Comilla Sadar",
+            "postOffice": "Comilla Contoment",
+            "postCode": "3501",
+            "bn_postOffice": "কুমিল্লা কনটোমেন্ট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Comilla Sadar",
+            "postOffice": "Comilla Sadar",
+            "postCode": "3500",
+            "bn_postOffice": "কুমিল্লা সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Comilla Sadar",
+            "postOffice": "Courtbari",
+            "postCode": "3503",
+            "bn_postOffice": "কোর্টবাড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Comilla Sadar",
+            "postOffice": "Halimanagar",
+            "postCode": "3502",
+            "bn_postOffice": "হালিমানগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Comilla Sadar",
+            "postOffice": "Suaganj",
+            "postCode": "3504",
+            "bn_postOffice": "সুয়াগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Daudkandi",
+            "postOffice": "Dashpara",
+            "postCode": "3518",
+            "bn_postOffice": "দশপাড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Daudkandi",
+            "postOffice": "Daudkandi",
+            "postCode": "3516",
+            "bn_postOffice": "দাউদকান্দি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Daudkandi",
+            "postOffice": "Eliotganj",
+            "postCode": "3519",
+            "bn_postOffice": "এলিয়টগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Daudkandi",
+            "postOffice": "Gouripur",
+            "postCode": "3517",
+            "bn_postOffice": "গৌরীপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Davidhar",
+            "postOffice": "Barashalghar",
+            "postCode": "3532",
+            "bn_postOffice": "বড়শালঘর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Davidhar",
+            "postOffice": "Davidhar",
+            "postCode": "3530",
+            "bn_postOffice": "ডেভিডার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Davidhar",
+            "postOffice": "Dhamtee",
+            "postCode": "3533",
+            "bn_postOffice": "ধমতি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Davidhar",
+            "postOffice": "Gangamandal",
+            "postCode": "3531",
+            "bn_postOffice": "গঙ্গামণ্ডল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Homna",
+            "postOffice": "Homna",
+            "postCode": "3546",
+            "bn_postOffice": "হোমনা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Laksam",
+            "postOffice": "Bipulasar",
+            "postCode": "3572",
+            "bn_postOffice": "বিপুলাসার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Laksam",
+            "postOffice": "Laksam",
+            "postCode": "3570",
+            "bn_postOffice": "লাকসাম"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Laksam",
+            "postOffice": "Lakshamanpur",
+            "postCode": "3571",
+            "bn_postOffice": "লক্ষ্মণপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Langalkot",
+            "postOffice": "Chhariabazar",
+            "postCode": "3582",
+            "bn_postOffice": "ছড়িয়াবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Langalkot",
+            "postOffice": "Dhalua",
+            "postCode": "3581",
+            "bn_postOffice": "ধলুয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Langalkot",
+            "postOffice": "Gunabati",
+            "postCode": "3583",
+            "bn_postOffice": "গুণবতী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Langalkot",
+            "postOffice": "Langalkot",
+            "postCode": "3580",
+            "bn_postOffice": "লাঙ্গলকোট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Bangra",
+            "postCode": "3543",
+            "bn_postOffice": "বাংরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Companyganj",
+            "postCode": "3542",
+            "bn_postOffice": "কোম্পানিগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Muradnagar",
+            "postCode": "3540",
+            "bn_postOffice": "মুরাদনগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Pantibazar",
+            "postCode": "3545",
+            "bn_postOffice": "পাঁতিবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Ramchandarpur",
+            "postCode": "3541",
+            "bn_postOffice": "রামচন্দ্রপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "44",
+            "upazila": "Muradnagar",
+            "postOffice": "Sonakanda",
+            "postCode": "3544",
+            "bn_postOffice": "সোনাকান্দা"
+        }
+    ]
+}

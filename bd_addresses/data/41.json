@@ -1,0 +1,228 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Akhaura",
+            "postOffice": "Akhaura",
+            "postCode": "3450",
+            "bn_postOffice": "আখাউড়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Akhaura",
+            "postOffice": "Azampur",
+            "postCode": "3451",
+            "bn_postOffice": "আজমপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Akhaura",
+            "postOffice": "Gangasagar",
+            "postCode": "3452",
+            "bn_postOffice": "গঙ্গাসাগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Banchharampur",
+            "postOffice": "Banchharampur",
+            "postCode": "3420",
+            "bn_postOffice": "বাঞ্ছারামপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Brahamanbaria Sadar",
+            "postOffice": "Ashuganj",
+            "postCode": "3402",
+            "bn_postOffice": "আশুগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Brahamanbaria Sadar",
+            "postOffice": "Ashuganj Share",
+            "postCode": "3403",
+            "bn_postOffice": "আশুগঞ্জ শেয়ার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Brahamanbaria Sadar",
+            "postOffice": "Brahamanbaria Sadar",
+            "postCode": "3400",
+            "bn_postOffice": "ব্রাহ্মণবাড়িয়া সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Brahamanbaria Sadar",
+            "postOffice": "Poun",
+            "postCode": "3404",
+            "bn_postOffice": "পাউন"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Brahamanbaria Sadar",
+            "postOffice": "Talshahar",
+            "postCode": "3401",
+            "bn_postOffice": "তালশহর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Kasba",
+            "postOffice": "Chandidar",
+            "postCode": "3462",
+            "bn_postOffice": "চন্ডিদার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Kasba",
+            "postOffice": "Chargachh",
+            "postCode": "3463",
+            "bn_postOffice": "চরগাছ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Kasba",
+            "postOffice": "Gopinathpur",
+            "postCode": "3464",
+            "bn_postOffice": "গোপীনাথপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Kasba",
+            "postOffice": "Kasba",
+            "postCode": "3460",
+            "bn_postOffice": "কসবা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Kasba",
+            "postOffice": "Kuti",
+            "postCode": "3461",
+            "bn_postOffice": "কুটি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Jibanganj",
+            "postCode": "3419",
+            "bn_postOffice": "জীবনগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Kaitala",
+            "postCode": "3417",
+            "bn_postOffice": "কৈতালা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Laubfatehpur",
+            "postCode": "3411",
+            "bn_postOffice": "লাউবফতেহপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Nabinagar",
+            "postCode": "3410",
+            "bn_postOffice": "নবীনগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Rasullabad",
+            "postCode": "3412",
+            "bn_postOffice": "রসুলবাদ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Ratanpur",
+            "postCode": "3414",
+            "bn_postOffice": "রতনপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Salimganj",
+            "postCode": "3418",
+            "bn_postOffice": "সলিমগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Shahapur",
+            "postCode": "3415",
+            "bn_postOffice": "শাহাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nabinagar",
+            "postOffice": "Shamgram",
+            "postCode": "3413",
+            "bn_postOffice": "শামগ্রাম"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nasirnagar",
+            "postOffice": "Fandauk",
+            "postCode": "3441",
+            "bn_postOffice": "ফান্ডাউক"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Nasirnagar",
+            "postOffice": "Nasirnagar",
+            "postCode": "3440",
+            "bn_postOffice": "নাসিরনগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Sarail",
+            "postOffice": "Chandura",
+            "postCode": "3432",
+            "bn_postOffice": "চান্দুরা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Sarail",
+            "postOffice": "Sarial",
+            "postCode": "3430",
+            "bn_postOffice": "সরিয়াল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "41",
+            "upazila": "Sarail",
+            "postOffice": "Shahbajpur",
+            "postCode": "3431",
+            "bn_postOffice": "শাহবাজপুর"
+        }
+    ]
+}

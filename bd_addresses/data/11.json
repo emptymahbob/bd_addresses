@@ -1,0 +1,172 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Araihazar",
+            "postOffice": "Araihazar",
+            "postCode": "1450",
+            "bn_postOffice": "আড়াইহাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Araihazar",
+            "postOffice": "Gopaldi",
+            "postCode": "1451",
+            "bn_postOffice": "গোপালদি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Baidder Bazar",
+            "postOffice": "Baidder Bazar",
+            "postCode": "1440",
+            "bn_postOffice": "বাইদার বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Baidder Bazar",
+            "postOffice": "Bara Nagar",
+            "postCode": "1441",
+            "bn_postOffice": "বড় নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Baidder Bazar",
+            "postOffice": "Barodi",
+            "postCode": "1442",
+            "bn_postOffice": "বারোদি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Bandar",
+            "postOffice": "Bandar",
+            "postCode": "1410",
+            "bn_postOffice": "বন্দর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Bandar",
+            "postOffice": "BIDS",
+            "postCode": "1413",
+            "bn_postOffice": "বিডস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Bandar",
+            "postOffice": "D.C Mills",
+            "postCode": "1411",
+            "bn_postOffice": "ডিসি মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Bandar",
+            "postOffice": "Madanganj",
+            "postCode": "1414",
+            "bn_postOffice": "মদনগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Bandar",
+            "postOffice": "Nabiganj",
+            "postCode": "1412",
+            "bn_postOffice": "নবীগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Fatullah",
+            "postOffice": "Fatulla Bazar",
+            "postCode": "1421",
+            "bn_postOffice": "ফতুল্লা বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Fatullah",
+            "postOffice": "Fatullah",
+            "postCode": "1420",
+            "bn_postOffice": "ফতুল্লা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Narayanganj Sadar",
+            "postOffice": "Narayanganj Sadar",
+            "postCode": "1400",
+            "bn_postOffice": "নারায়ণগঞ্জ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Rupganj",
+            "postOffice": "Bhulta",
+            "postCode": "1462",
+            "bn_postOffice": "ভুলতা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Rupganj",
+            "postOffice": "Kanchan",
+            "postCode": "1461",
+            "bn_postOffice": "কাঞ্চন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Rupganj",
+            "postOffice": "Murapara",
+            "postCode": "1464",
+            "bn_postOffice": "মুরাপারা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Rupganj",
+            "postOffice": "Nagri",
+            "postCode": "1463",
+            "bn_postOffice": "নাগরি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Rupganj",
+            "postOffice": "Rupganj",
+            "postCode": "1460",
+            "bn_postOffice": "রূপগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Siddirganj",
+            "postOffice": "Adamjeenagar",
+            "postCode": "1431",
+            "bn_postOffice": "আদমজীনগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Siddirganj",
+            "postOffice": "LN Mills",
+            "postCode": "1432",
+            "bn_postOffice": "এলএন মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "11",
+            "upazila": "Siddirganj",
+            "postOffice": "Siddirganj",
+            "postCode": "1430",
+            "bn_postOffice": "সিদ্দিরগঞ্জ"
+        }
+    ]
+}

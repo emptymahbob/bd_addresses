@@ -1,0 +1,116 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Badarganj",
+            "postOffice": "Badarganj",
+            "postCode": "5430",
+            "bn_postOffice": "বদরগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Badarganj",
+            "postOffice": "Shyampur",
+            "postCode": "5431",
+            "bn_postOffice": "শ্যামপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Gangachara",
+            "postOffice": "Gangachara",
+            "postCode": "5410",
+            "bn_postOffice": "গঙ্গাচড়া"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Kaunia",
+            "postOffice": "Haragachh",
+            "postCode": "5441",
+            "bn_postOffice": "হারাগাছ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Kaunia",
+            "postOffice": "Kaunia",
+            "postCode": "5440",
+            "bn_postOffice": "কাউনিয়া"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Mithapukur",
+            "postOffice": "Mithapukur",
+            "postCode": "5460",
+            "bn_postOffice": "মিঠাপুকুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Pirgachha",
+            "postOffice": "Pirgachha",
+            "postCode": "5450",
+            "bn_postOffice": "পীরগাছা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Alamnagar",
+            "postCode": "5402",
+            "bn_postOffice": "আলমনগর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Mahiganj",
+            "postCode": "5403",
+            "bn_postOffice": "মাহিগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Rangpur Cadet Colleg",
+            "postCode": "5404",
+            "bn_postOffice": "রংপুর ক্যাডেট কলেজ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Rangpur Carmiecal Col",
+            "postCode": "5405",
+            "bn_postOffice": "রংপুর কারমিয়েল কর্নেল"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Rangpur Sadar",
+            "postCode": "5400",
+            "bn_postOffice": "রংপুর সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Rangpur Sadar",
+            "postOffice": "Rangpur Upa-Shahar",
+            "postCode": "5401",
+            "bn_postOffice": "রংপুর উপ-শহর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Taraganj",
+            "postOffice": "Taraganj",
+            "postCode": "5420",
+            "bn_postOffice": "তারাগঞ্জ"
+        }
+    ]
+}

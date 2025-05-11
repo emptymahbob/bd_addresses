@@ -1,0 +1,68 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Arpara",
+            "postOffice": "Arpara",
+            "postCode": "7620",
+            "bn_postOffice": "আরপারা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Magura Sadar",
+            "postOffice": "Magura Sadar",
+            "postCode": "7600",
+            "bn_postOffice": "মাগুরা সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Mohammadpur",
+            "postOffice": "Binodpur",
+            "postCode": "7631",
+            "bn_postOffice": "বিনোদপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Mohammadpur",
+            "postOffice": "Mohammadpur",
+            "postCode": "7630",
+            "bn_postOffice": "মোহাম্মদপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Mohammadpur",
+            "postOffice": "Nahata",
+            "postCode": "7632",
+            "bn_postOffice": "নাহাটা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Shripur",
+            "postOffice": "Langalbadh",
+            "postCode": "7611",
+            "bn_postOffice": "লাঙ্গলবাধ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Shripur",
+            "postOffice": "Nachol",
+            "postCode": "7612",
+            "bn_postOffice": "নাচোল"
+        },
+        {
+            "division_id": "4",
+            "district_id": "61",
+            "upazila": "Shripur",
+            "postOffice": "Shripur",
+            "postCode": "7610",
+            "bn_postOffice": "শ্রীপুর"
+        }
+    ]
+}

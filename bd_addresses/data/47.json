@@ -1,0 +1,68 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Diginala",
+            "postOffice": "Diginala",
+            "postCode": "4420",
+            "bn_postOffice": "দিগিনালা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Khagrachari Sadar",
+            "postOffice": "Khagrachari Sadar",
+            "postCode": "4400",
+            "bn_postOffice": "খাগড়াছড়ি সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Laxmichhari",
+            "postOffice": "Laxmichhari",
+            "postCode": "4470",
+            "bn_postOffice": "লক্ষ্মীছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Mahalchhari",
+            "postOffice": "Mahalchhari",
+            "postCode": "4430",
+            "bn_postOffice": "মহালছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Manikchhari",
+            "postOffice": "Manikchhari",
+            "postCode": "4460",
+            "bn_postOffice": "মানিকছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Matiranga",
+            "postOffice": "Matiranga",
+            "postCode": "4450",
+            "bn_postOffice": "মাটিরাঙ্গা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Panchhari",
+            "postOffice": "Panchhari",
+            "postCode": "4410",
+            "bn_postOffice": "পানছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "47",
+            "upazila": "Ramghar Head Office",
+            "postOffice": "Ramghar Head Office",
+            "postCode": "4440",
+            "bn_postOffice": "রামঘর সদর দপ্তর"
+        }
+    ]
+}

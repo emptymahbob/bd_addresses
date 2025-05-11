@@ -1,0 +1,116 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Barakal",
+            "postOffice": "Barakal",
+            "postCode": "4570",
+            "bn_postOffice": "বরাকাল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Bilaichhari",
+            "postOffice": "Bilaichhari",
+            "postCode": "4550",
+            "bn_postOffice": "বিলাইছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Jarachhari",
+            "postOffice": "Jarachhari",
+            "postCode": "4560",
+            "bn_postOffice": "জরাছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Kalampati",
+            "postOffice": "Betbunia",
+            "postCode": "4511",
+            "bn_postOffice": "বেতবুনিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Kalampati",
+            "postOffice": "Kalampati",
+            "postCode": "4510",
+            "bn_postOffice": "কালামপতি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "kaptai",
+            "postOffice": "Chandraghona",
+            "postCode": "4531",
+            "bn_postOffice": "চন্দ্রঘোনা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "kaptai",
+            "postOffice": "Kaptai",
+            "postCode": "4530",
+            "bn_postOffice": "কাপ্তাই"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "kaptai",
+            "postOffice": "Kaptai Nuton Bazar",
+            "postCode": "4533",
+            "bn_postOffice": "কাপ্তাই নুতন বাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "kaptai",
+            "postOffice": "Kaptai Project",
+            "postCode": "4532",
+            "bn_postOffice": "কাপ্তাই প্রকল্প"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Longachh",
+            "postOffice": "Longachh",
+            "postCode": "4580",
+            "bn_postOffice": "লংগছ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Marishya",
+            "postOffice": "Marishya",
+            "postCode": "4590",
+            "bn_postOffice": "মারিষ্যা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Naniachhar",
+            "postOffice": "Nanichhar",
+            "postCode": "4520",
+            "bn_postOffice": "নানিচর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Rajsthali",
+            "postOffice": "Rajsthali",
+            "postCode": "4540",
+            "bn_postOffice": "রাজস্থলী"
+        },
+        {
+            "division_id": "2",
+            "district_id": "50",
+            "upazila": "Rangamati Sadar",
+            "postOffice": "Rangamati Sadar",
+            "postCode": "4500",
+            "bn_postOffice": "রাঙ্গামাটি সদর"
+        }
+    ]
+}

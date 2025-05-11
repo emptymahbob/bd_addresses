@@ -1,0 +1,180 @@
+{
+    "postcodes": [
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Azmireeganj",
+            "postOffice": "Azmireeganj",
+            "postCode": "3360",
+            "bn_postOffice": "আজমিরীগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Bahubal",
+            "postOffice": "Bahubal",
+            "postCode": "3310",
+            "bn_postOffice": "বাহুবল"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Baniachang",
+            "postOffice": "Baniachang",
+            "postCode": "3350",
+            "bn_postOffice": "বানিয়াচং"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Baniachang",
+            "postOffice": "Jatrapasha",
+            "postCode": "3351",
+            "bn_postOffice": "যাত্রাপাশা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Baniachang",
+            "postOffice": "Kadirganj",
+            "postCode": "3352",
+            "bn_postOffice": "কাদিরগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Chunarughat",
+            "postOffice": "Chandpurbagan",
+            "postCode": "3321",
+            "bn_postOffice": "চাঁদপুরবাগান"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Chunarughat",
+            "postOffice": "Chunarughat",
+            "postCode": "3320",
+            "bn_postOffice": "চুনারুঘাট"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Chunarughat",
+            "postOffice": "Narapati",
+            "postCode": "3322",
+            "bn_postOffice": "নরপতি"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Hobiganj Sadar",
+            "postOffice": "Gopaya",
+            "postCode": "3302",
+            "bn_postOffice": "গোপায়া"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Hobiganj Sadar",
+            "postOffice": "Hobiganj Sadar",
+            "postCode": "3300",
+            "bn_postOffice": "হবিগঞ্জ সদর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Hobiganj Sadar",
+            "postOffice": "Shaestaganj",
+            "postCode": "3301",
+            "bn_postOffice": "শায়েস্তাগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Kalauk",
+            "postOffice": "Kalauk",
+            "postCode": "3340",
+            "bn_postOffice": "কালাউক"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Kalauk",
+            "postOffice": "Lakhai",
+            "postCode": "3341",
+            "bn_postOffice": "লাখাই"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Madhabpur",
+            "postOffice": "Itakhola",
+            "postCode": "3331",
+            "bn_postOffice": "ইটাখোলা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Madhabpur",
+            "postOffice": "Madhabpur",
+            "postCode": "3330",
+            "bn_postOffice": "মাধবপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Madhabpur",
+            "postOffice": "Saihamnagar",
+            "postCode": "3333",
+            "bn_postOffice": "সায়হামনগর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Madhabpur",
+            "postOffice": "Shahajibazar",
+            "postCode": "3332",
+            "bn_postOffice": "শাহাজীবাজার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Nabiganj",
+            "postOffice": "Digalbak",
+            "postCode": "3373",
+            "bn_postOffice": "দিগালবাক"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Nabiganj",
+            "postOffice": "Golduba",
+            "postCode": "3372",
+            "bn_postOffice": "গোল্ডুবা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Nabiganj",
+            "postOffice": "Goplarbazar",
+            "postCode": "3371",
+            "bn_postOffice": "গোপালবাজার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Nabiganj",
+            "postOffice": "Inathganj",
+            "postCode": "3374",
+            "bn_postOffice": "ইনাথগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "51",
+            "upazila": "Nabiganj",
+            "postOffice": "Nabiganj",
+            "postCode": "3370",
+            "bn_postOffice": "নবীগঞ্জ"
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Basail",
+            "postOffice": "Basail",
+            "postCode": "1920",
+            "bn_postOffice": "বাসাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Bhuapur",
+            "postOffice": "Bhuapur",
+            "postCode": "1960",
+            "bn_postOffice": "ভূঞাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Delduar",
+            "postCode": "1910",
+            "bn_postOffice": "দেলদুয়ার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Elasin",
+            "postCode": "1913",
+            "bn_postOffice": "এলাসিন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Hinga Nagar",
+            "postCode": "1914",
+            "bn_postOffice": "হিঙ্গা নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Jangalia",
+            "postCode": "1911",
+            "bn_postOffice": "জাঙ্গালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Lowhati",
+            "postCode": "1915",
+            "bn_postOffice": "লোহাটি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Delduar",
+            "postOffice": "Patharail",
+            "postCode": "1912",
+            "bn_postOffice": "পাথরাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Ghatail",
+            "postOffice": "D. Pakutia",
+            "postCode": "1982",
+            "bn_postOffice": "ঘ. পাকুটিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Ghatail",
+            "postOffice": "Dhalapara",
+            "postCode": "1983",
+            "bn_postOffice": "ধলাপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Ghatail",
+            "postOffice": "Ghatial",
+            "postCode": "1980",
+            "bn_postOffice": "ঘাটিয়াল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Ghatail",
+            "postOffice": "Lohani",
+            "postCode": "1984",
+            "bn_postOffice": "লোহানি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Ghatail",
+            "postOffice": "Zahidganj",
+            "postCode": "1981",
+            "bn_postOffice": "জাহিদগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Gopalpur",
+            "postOffice": "Gopalpur",
+            "postCode": "1990",
+            "bn_postOffice": "গোপালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Gopalpur",
+            "postOffice": "Hemnagar",
+            "postCode": "1992",
+            "bn_postOffice": "হেমনগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Gopalpur",
+            "postOffice": "Jhowail",
+            "postCode": "1991",
+            "bn_postOffice": "ঝোয়াইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Ballabazar",
+            "postCode": "1973",
+            "bn_postOffice": "বল্লাবাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Elinga",
+            "postCode": "1974",
+            "bn_postOffice": "এলিঙ্গা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Kalihati",
+            "postCode": "1970",
+            "bn_postOffice": "কালিহাতী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Nagarbari",
+            "postCode": "1977",
+            "bn_postOffice": "নগরবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Nagarbari SO",
+            "postCode": "1976",
+            "bn_postOffice": "নগরবাড়ি এসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Nagbari",
+            "postCode": "1972",
+            "bn_postOffice": "নাগবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Palisha",
+            "postCode": "1975",
+            "bn_postOffice": "পালিশা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kalihati",
+            "postOffice": "Rajafair",
+            "postCode": "1971",
+            "bn_postOffice": "রাজাফেয়ার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Kashkaolia",
+            "postOffice": "Kashkawlia",
+            "postCode": "1930",
+            "bn_postOffice": "কাশকাওলিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Madhupur",
+            "postOffice": "Dhobari",
+            "postCode": "1997",
+            "bn_postOffice": "ধোবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Madhupur",
+            "postOffice": "Madhupur",
+            "postCode": "1996",
+            "bn_postOffice": "মধুপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "Gorai",
+            "postCode": "1941",
+            "bn_postOffice": "গোরাই"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "Jarmuki",
+            "postCode": "1944",
+            "bn_postOffice": "জারমুকি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "M.C. College",
+            "postCode": "1942",
+            "bn_postOffice": "এমসি কলেজ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "Mirzapur",
+            "postCode": "1940",
+            "bn_postOffice": "মির্জাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "Mohera",
+            "postCode": "1945",
+            "bn_postOffice": "মোহেরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Mirzapur",
+            "postOffice": "Warri paikpara",
+            "postCode": "1943",
+            "bn_postOffice": "ওয়ারি পাইকপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Nagarpur",
+            "postOffice": "Dhuburia",
+            "postCode": "1937",
+            "bn_postOffice": "ধুবুরিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Nagarpur",
+            "postOffice": "Nagarpur",
+            "postCode": "1936",
+            "bn_postOffice": "নাগরপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Nagarpur",
+            "postOffice": "Salimabad",
+            "postCode": "1938",
+            "bn_postOffice": "সালিমাবাদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Sakhipur",
+            "postOffice": "Kochua",
+            "postCode": "1951",
+            "bn_postOffice": "কোচুয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Sakhipur",
+            "postOffice": "Sakhipur",
+            "postCode": "1950",
+            "bn_postOffice": "সখীপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Tangail Sadar",
+            "postOffice": "Kagmari",
+            "postCode": "1901",
+            "bn_postOffice": "কাগমারি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Tangail Sadar",
+            "postOffice": "Korotia",
+            "postCode": "1903",
+            "bn_postOffice": "করোটিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Tangail Sadar",
+            "postOffice": "Purabari",
+            "postCode": "1904",
+            "bn_postOffice": "পুরবাড়ী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Tangail Sadar",
+            "postOffice": "Santosh",
+            "postCode": "1902",
+            "bn_postOffice": "সন্তোষ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "17",
+            "upazila": "Tangail Sadar",
+            "postOffice": "Tangail Sadar",
+            "postCode": "1900",
+            "bn_postOffice": "টাঙ্গাইল সদর"
+        }
+    ]
+}

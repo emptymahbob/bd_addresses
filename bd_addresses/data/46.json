@@ -1,0 +1,164 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Chhagalnaia",
+            "postOffice": "Chhagalnaia",
+            "postCode": "3910",
+            "bn_postOffice": "ছাগলনাইয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Chhagalnaia",
+            "postOffice": "Daraga Hat",
+            "postCode": "3912",
+            "bn_postOffice": "দারাগা হাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Chhagalnaia",
+            "postOffice": "Maharajganj",
+            "postCode": "3911",
+            "bn_postOffice": "মহারাজগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Chhagalnaia",
+            "postOffice": "Puabashimulia",
+            "postCode": "3913",
+            "bn_postOffice": "পুয়াবাশিমুলিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Dagonbhuia",
+            "postOffice": "Chhilonia",
+            "postCode": "3922",
+            "bn_postOffice": "ছিলোনিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Dagonbhuia",
+            "postOffice": "Dagondhuia",
+            "postCode": "3920",
+            "bn_postOffice": "দাগোন্ধুইয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Dagonbhuia",
+            "postOffice": "Dudmukha",
+            "postCode": "3921",
+            "bn_postOffice": "দুদমুখা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Dagonbhuia",
+            "postOffice": "Rajapur",
+            "postCode": "3923",
+            "bn_postOffice": "রাজাপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Feni Sadar",
+            "postOffice": "Fazilpur",
+            "postCode": "3901",
+            "bn_postOffice": "ফাজিলপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Feni Sadar",
+            "postOffice": "Feni Sadar",
+            "postCode": "3900",
+            "bn_postOffice": "ফেনী সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Feni Sadar",
+            "postOffice": "Laskarhat",
+            "postCode": "3903",
+            "bn_postOffice": "লস্করহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Feni Sadar",
+            "postOffice": "Sharshadie",
+            "postCode": "3902",
+            "bn_postOffice": "শার্শাদি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Pashurampur",
+            "postOffice": "Fulgazi",
+            "postCode": "3942",
+            "bn_postOffice": "ফুলগাজি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Pashurampur",
+            "postOffice": "Munshirhat",
+            "postCode": "3943",
+            "bn_postOffice": "মুন্সিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Pashurampur",
+            "postOffice": "Pashurampur",
+            "postCode": "3940",
+            "bn_postOffice": "পশুরামপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Pashurampur",
+            "postOffice": "Shuarbazar",
+            "postCode": "3941",
+            "bn_postOffice": "শুয়ারবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Sonagazi",
+            "postOffice": "Ahmadpur",
+            "postCode": "3932",
+            "bn_postOffice": "আহমেদপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Sonagazi",
+            "postOffice": "Kazirhat",
+            "postCode": "3933",
+            "bn_postOffice": "কাজিরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Sonagazi",
+            "postOffice": "Motiganj",
+            "postCode": "3931",
+            "bn_postOffice": "মতিগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "46",
+            "upazila": "Sonagazi",
+            "postOffice": "Sonagazi",
+            "postCode": "3930",
+            "bn_postOffice": "সোনাগাজী"
+        }
+    ]
+}

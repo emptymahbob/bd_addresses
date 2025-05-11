@@ -1,0 +1,100 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Bhedorganj",
+            "postOffice": "Bhedorganj",
+            "postCode": "8030",
+            "bn_postOffice": "ভেদোরগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Damudhya",
+            "postOffice": "Damudhya",
+            "postCode": "8040",
+            "bn_postOffice": "দামুধ্যা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Gosairhat",
+            "postOffice": "Gosairhat",
+            "postCode": "8050",
+            "bn_postOffice": "গোসাইরহাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Jajira",
+            "postOffice": "Jajira",
+            "postCode": "8010",
+            "bn_postOffice": "জাজিরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Naria",
+            "postOffice": "Bhozeshwar",
+            "postCode": "8021",
+            "bn_postOffice": "ভোজেশ্বর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Naria",
+            "postOffice": "Gharisar",
+            "postCode": "8022",
+            "bn_postOffice": "ঘড়িসার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Naria",
+            "postOffice": "Kartikpur",
+            "postCode": "8024",
+            "bn_postOffice": "কার্তিকপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Naria",
+            "postOffice": "Naria",
+            "postCode": "8020",
+            "bn_postOffice": "নারিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Naria",
+            "postOffice": "Upshi",
+            "postCode": "8023",
+            "bn_postOffice": "উপশি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Shariatpur Sadar",
+            "postOffice": "Angaria",
+            "postCode": "8001",
+            "bn_postOffice": "আঙ্গারিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Shariatpur Sadar",
+            "postOffice": "Chikandi",
+            "postCode": "8002",
+            "bn_postOffice": "চিকান্দি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "15",
+            "upazila": "Shariatpur Sadar",
+            "postOffice": "Shariatpur Sadar",
+            "postCode": "8000",
+            "bn_postOffice": "শরীয়তপুর সদর"
+        }
+    ]
+}

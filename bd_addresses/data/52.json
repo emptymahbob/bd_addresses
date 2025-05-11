@@ -1,0 +1,212 @@
+{
+    "postcodes": [
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Baralekha",
+            "postOffice": "Baralekha",
+            "postCode": "3250",
+            "bn_postOffice": "বড়লেখা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Baralekha",
+            "postOffice": "Dhakkhinbag",
+            "postCode": "3252",
+            "bn_postOffice": "ঢাকখিনবাগ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Baralekha",
+            "postOffice": "Juri",
+            "postCode": "3251",
+            "bn_postOffice": "জুরি"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Baralekha",
+            "postOffice": "Purbashahabajpur",
+            "postCode": "3253",
+            "bn_postOffice": "পূর্বশাহাবাজপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kamalganj",
+            "postOffice": "Kamalganj",
+            "postCode": "3220",
+            "bn_postOffice": "কমলগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kamalganj",
+            "postOffice": "Keramatnaga",
+            "postCode": "3221",
+            "bn_postOffice": "কেরামাতনাগা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kamalganj",
+            "postOffice": "Munshibazar",
+            "postCode": "3224",
+            "bn_postOffice": "মুন্সিবাজার"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kamalganj",
+            "postOffice": "Patrakhola",
+            "postCode": "3222",
+            "bn_postOffice": "পাত্রখোলা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kamalganj",
+            "postOffice": "Shamsher Nagar",
+            "postCode": "3223",
+            "bn_postOffice": "শমশের নগর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Baramchal",
+            "postCode": "3237",
+            "bn_postOffice": "বরমচল"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Kajaldhara",
+            "postCode": "3234",
+            "bn_postOffice": "কাজলধারা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Karimpur",
+            "postCode": "3235",
+            "bn_postOffice": "করিমপুর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Kulaura",
+            "postCode": "3230",
+            "bn_postOffice": "কুলাউড়া"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Langla",
+            "postCode": "3232",
+            "bn_postOffice": "ল্যাংলা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Prithimpasha",
+            "postCode": "3233",
+            "bn_postOffice": "পৃথিমপাশা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Kulaura",
+            "postOffice": "Tillagaon",
+            "postCode": "3231",
+            "bn_postOffice": "টিলাগাঁও"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Moulvibazar Sadar",
+            "postOffice": "Afrozganj",
+            "postCode": "3203",
+            "bn_postOffice": "আফরোজগঞ্জ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Moulvibazar Sadar",
+            "postOffice": "Barakapan",
+            "postCode": "3201",
+            "bn_postOffice": "বারাকাপান"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Moulvibazar Sadar",
+            "postOffice": "Monumukh",
+            "postCode": "3202",
+            "bn_postOffice": "মনুমুখ"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Moulvibazar Sadar",
+            "postOffice": "Moulvibazar Sadar",
+            "postCode": "3200",
+            "bn_postOffice": "মৌলভীবাজার সদর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Rajnagar",
+            "postOffice": "Rajnagar",
+            "postCode": "3240",
+            "bn_postOffice": "রাজনগর"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Srimangal",
+            "postOffice": "Kalighat",
+            "postCode": "3212",
+            "bn_postOffice": "কালীঘাট"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Srimangal",
+            "postOffice": "Khejurichhara",
+            "postCode": "3213",
+            "bn_postOffice": "খেজুরিছড়া"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Srimangal",
+            "postOffice": "Narain Chora",
+            "postCode": "3211",
+            "bn_postOffice": "নারায়ণ চোরা"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Srimangal",
+            "postOffice": "Satgaon",
+            "postCode": "3214",
+            "bn_postOffice": "সাতগাঁও"
+        },
+        {
+            "division_id": "7",
+            "district_id": "52",
+            "upazila": "Srimangal",
+            "postOffice": "Srimangal",
+            "postCode": "3210",
+            "bn_postOffice": "শ্রীমঙ্গল"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Chandpur Sadar",
+            "postOffice": "Baburhat",
+            "postCode": "3602",
+            "bn_postOffice": "বাবুরহাট"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Chandpur Sadar",
+            "postOffice": "Chandpur Sadar",
+            "postCode": "3600",
+            "bn_postOffice": "চাঁদপুর সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Chandpur Sadar",
+            "postOffice": "Puranbazar",
+            "postCode": "3601",
+            "bn_postOffice": "পুরানবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Chandpur Sadar",
+            "postOffice": "Sahatali",
+            "postCode": "3603",
+            "bn_postOffice": "সাহাতালি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Chandra",
+            "postCode": "3651",
+            "bn_postOffice": "চন্দ্র"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Faridganj",
+            "postCode": "3650",
+            "bn_postOffice": "ফরিদগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Gridkaliandia",
+            "postCode": "3653",
+            "bn_postOffice": "গ্রিডকালিয়ান্ডিয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Islampur Shah Isain",
+            "postCode": "3655",
+            "bn_postOffice": "ইসলামপুর শাহ ঈসাইন"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Rampurbazar",
+            "postCode": "3654",
+            "bn_postOffice": "রামপুরবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Faridganj",
+            "postOffice": "Rupsha",
+            "postCode": "3652",
+            "bn_postOffice": "রূপসা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Hajiganj",
+            "postOffice": "Bolakhal",
+            "postCode": "3611",
+            "bn_postOffice": "বোলাখাল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Hajiganj",
+            "postOffice": "Hajiganj",
+            "postCode": "3610",
+            "bn_postOffice": "হাজীগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Hayemchar",
+            "postOffice": "Gandamara",
+            "postCode": "3661",
+            "bn_postOffice": "গণ্ডামারা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Hayemchar",
+            "postOffice": "Hayemchar",
+            "postCode": "3660",
+            "bn_postOffice": "হায়েমচার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Kachua",
+            "postOffice": "Kachua",
+            "postCode": "3630",
+            "bn_postOffice": "কচুয়া"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Kachua",
+            "postOffice": "Pak Shrirampur",
+            "postCode": "3631",
+            "bn_postOffice": "পাক শ্রীরামপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Kachua",
+            "postOffice": "Rahima Nagar",
+            "postCode": "3632",
+            "bn_postOffice": "রহিমা নগর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Kachua",
+            "postOffice": "Shachar",
+            "postCode": "3633",
+            "bn_postOffice": "শচার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Matlobganj",
+            "postOffice": "Kalipur",
+            "postCode": "3642",
+            "bn_postOffice": "কালীপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Matlobganj",
+            "postOffice": "Matlobganj",
+            "postCode": "3640",
+            "bn_postOffice": "মতলবগঞ্জ"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Matlobganj",
+            "postOffice": "Mohanpur",
+            "postCode": "3641",
+            "bn_postOffice": "মোহনপুর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Shahrasti",
+            "postOffice": "Chotoshi",
+            "postCode": "3623",
+            "bn_postOffice": "ছোটোশি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Shahrasti",
+            "postOffice": "Islamia Madrasha",
+            "postCode": "3624",
+            "bn_postOffice": "ইসলামিয়া মাদ্রাসা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Shahrasti",
+            "postOffice": "Khilabazar",
+            "postCode": "3621",
+            "bn_postOffice": "খিলাবাজার"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Shahrasti",
+            "postOffice": "Pashchim Kherihar Al",
+            "postCode": "3622",
+            "bn_postOffice": "পশিম খেরিহার আল"
+        },
+        {
+            "division_id": "2",
+            "district_id": "42",
+            "upazila": "Shahrasti",
+            "postOffice": "Shahrasti",
+            "postCode": "3620",
+            "bn_postOffice": "শাহরাস্তি"
+        }
+    ]
+}

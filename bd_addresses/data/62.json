@@ -1,0 +1,44 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "62",
+            "upazila": "Gangni",
+            "postOffice": "Gangni",
+            "postCode": "7110",
+            "bn_postOffice": "গাংনী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "62",
+            "upazila": "Meherpur Sadar",
+            "postOffice": "Amjhupi",
+            "postCode": "7101",
+            "bn_postOffice": "আমঝুপি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "62",
+            "upazila": "Meherpur Sadar",
+            "postOffice": "Amjhupi",
+            "postCode": "7152",
+            "bn_postOffice": "আমঝুপি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "62",
+            "upazila": "Meherpur Sadar",
+            "postOffice": "Meherpur Sadar",
+            "postCode": "7100",
+            "bn_postOffice": "মেহেরপুর সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "62",
+            "upazila": "Meherpur Sadar",
+            "postOffice": "Mujib Nagar Complex",
+            "postCode": "7102",
+            "bn_postOffice": "মুজিব নগর কমপ্লেক্স"
+        }
+    ]
+}

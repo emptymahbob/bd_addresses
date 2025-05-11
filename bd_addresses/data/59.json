@@ -1,0 +1,316 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Alaipur",
+            "postOffice": "Alaipur",
+            "postCode": "9240",
+            "bn_postOffice": "আলাইপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Alaipur",
+            "postOffice": "Belphulia",
+            "postCode": "9242",
+            "bn_postOffice": "বেলফুলিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Alaipur",
+            "postOffice": "Rupsha",
+            "postCode": "9241",
+            "bn_postOffice": "রূপসা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Batiaghat",
+            "postOffice": "Batiaghat",
+            "postCode": "9260",
+            "bn_postOffice": "বটিয়াঘাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Batiaghat",
+            "postOffice": "Surkalee",
+            "postCode": "9261",
+            "bn_postOffice": "সুরকালি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Chalna Bazar",
+            "postOffice": "Bajua",
+            "postCode": "9272",
+            "bn_postOffice": "বাজুয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Chalna Bazar",
+            "postOffice": "Chalna Bazar",
+            "postCode": "9270",
+            "bn_postOffice": "চালনা বাজার"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Chalna Bazar",
+            "postOffice": "Dakup",
+            "postCode": "9271",
+            "bn_postOffice": "ডাকুপ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Chalna Bazar",
+            "postOffice": "Nalian",
+            "postCode": "9273",
+            "bn_postOffice": "নালিয়ান"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Digalia",
+            "postOffice": "Chandni Mahal",
+            "postCode": "9221",
+            "bn_postOffice": "চাঁদনী মহল"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Digalia",
+            "postOffice": "Digalia",
+            "postCode": "9220",
+            "bn_postOffice": "দিগালিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Digalia",
+            "postOffice": "Gazirhat",
+            "postCode": "9224",
+            "bn_postOffice": "গাজীরহাট"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Digalia",
+            "postOffice": "Ghoshghati",
+            "postCode": "9223",
+            "bn_postOffice": "ঘোষঘাটি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Digalia",
+            "postOffice": "Senhati",
+            "postCode": "9222",
+            "bn_postOffice": "সেনহাটি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Atra Shilpa Area",
+            "postCode": "9207",
+            "bn_postOffice": "আত্রা শিল্প এলাকা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "BIT Khulna",
+            "postCode": "9203",
+            "bn_postOffice": "বিআইটি খুলনা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Doulatpur",
+            "postCode": "9202",
+            "bn_postOffice": "দৌলতপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Jahanabad Canttonmen",
+            "postCode": "9205",
+            "bn_postOffice": "জাহানাবাদ ক্যান্টনম্যান"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Khula Sadar",
+            "postCode": "9100",
+            "bn_postOffice": "খুলা সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Khulna G.P.O",
+            "postCode": "9000",
+            "bn_postOffice": "খুলনা জিপিও"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Khulna Shipyard",
+            "postCode": "9201",
+            "bn_postOffice": "খুলনা শিপইয়ার্ড"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Khulna University",
+            "postCode": "9208",
+            "bn_postOffice": "খুলনা বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Siramani",
+            "postCode": "9204",
+            "bn_postOffice": "সিরামনি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Khulna Sadar",
+            "postOffice": "Sonali Jute Mills",
+            "postCode": "9206",
+            "bn_postOffice": "সোনালী জুট মিলস"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Madinabad",
+            "postOffice": "Amadee",
+            "postCode": "9291",
+            "bn_postOffice": "আমাদি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Madinabad",
+            "postOffice": "Madinabad",
+            "postCode": "9290",
+            "bn_postOffice": "মদিনাবাদ"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Chandkhali",
+            "postCode": "9284",
+            "bn_postOffice": "চাঁদখালী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Garaikhali",
+            "postCode": "9285",
+            "bn_postOffice": "গড়াইখালী"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Godaipur",
+            "postCode": "9281",
+            "bn_postOffice": "গোদাইপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Kapilmoni",
+            "postCode": "9282",
+            "bn_postOffice": "কপিলমনি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Katipara",
+            "postCode": "9283",
+            "bn_postOffice": "কাটিপাড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Paikgachha",
+            "postOffice": "Paikgachha",
+            "postCode": "9280",
+            "bn_postOffice": "পাইকগাছা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Phultala",
+            "postOffice": "Phultala",
+            "postCode": "9210",
+            "bn_postOffice": "ফুলতলা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Sajiara",
+            "postOffice": "Chuknagar",
+            "postCode": "9252",
+            "bn_postOffice": "চুকনগর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Sajiara",
+            "postOffice": "Ghonabanda",
+            "postCode": "9251",
+            "bn_postOffice": "ঘোনাবান্দা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Sajiara",
+            "postOffice": "Sajiara",
+            "postCode": "9250",
+            "bn_postOffice": "সাজিয়ারা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Sajiara",
+            "postOffice": "Shahapur",
+            "postCode": "9253",
+            "bn_postOffice": "শাহাপুর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Terakhada",
+            "postOffice": "Pak Barasat",
+            "postCode": "9231",
+            "bn_postOffice": "পাক বারাসাত"
+        },
+        {
+            "division_id": "4",
+            "district_id": "59",
+            "upazila": "Terakhada",
+            "postOffice": "Terakhada",
+            "postCode": "9230",
+            "bn_postOffice": "তেরাখাদা"
+        }
+    ]
+}

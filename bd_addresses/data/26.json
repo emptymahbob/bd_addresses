@@ -1,0 +1,156 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Bangla Hili",
+            "postOffice": "Bangla Hili",
+            "postCode": "5270",
+            "bn_postOffice": "বাংলা হিলি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Biral",
+            "postOffice": "Biral",
+            "postCode": "5210",
+            "bn_postOffice": "বিরল"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Birampur",
+            "postOffice": "Birampur",
+            "postCode": "5266",
+            "bn_postOffice": "বিরামপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Birganj",
+            "postOffice": "Birganj",
+            "postCode": "5220",
+            "bn_postOffice": "বীরগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Chrirbandar",
+            "postOffice": "Chrirbandar",
+            "postCode": "5240",
+            "bn_postOffice": "চরবন্দর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Chrirbandar",
+            "postOffice": "Ranirbandar",
+            "postCode": "5241",
+            "bn_postOffice": "রানীরবন্দর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Dinajpur Sadar",
+            "postOffice": "Dinajpur Rajbari",
+            "postCode": "5201",
+            "bn_postOffice": "দিনাজপুর রাজবাড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Dinajpur Sadar",
+            "postOffice": "Dinajpur Sadar",
+            "postCode": "5200",
+            "bn_postOffice": "দিনাজপুর সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Khansama",
+            "postOffice": "Khansama",
+            "postCode": "5230",
+            "bn_postOffice": "খানসামা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Khansama",
+            "postOffice": "Pakarhat",
+            "postCode": "5231",
+            "bn_postOffice": "পাকারহাট"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Maharajganj",
+            "postOffice": "Maharajganj",
+            "postCode": "5226",
+            "bn_postOffice": "মহারাজগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Nababganj",
+            "postOffice": "Daudpur",
+            "postCode": "5281",
+            "bn_postOffice": "দাউদপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Nababganj",
+            "postOffice": "Gopalpur",
+            "postCode": "5282",
+            "bn_postOffice": "গোপালপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Nababganj",
+            "postOffice": "Nababganj",
+            "postCode": "5280",
+            "bn_postOffice": "নবাবগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Osmanpur",
+            "postOffice": "Ghoraghat",
+            "postCode": "5291",
+            "bn_postOffice": "ঘোড়াঘাট"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Osmanpur",
+            "postOffice": "Osmanpur",
+            "postCode": "5290",
+            "bn_postOffice": "ওসমানপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Parbatipur",
+            "postOffice": "Parbatipur",
+            "postCode": "5250",
+            "bn_postOffice": "পার্বতীপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Phulbari",
+            "postOffice": "Phulbari",
+            "postCode": "5260",
+            "bn_postOffice": "ফুলবাড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "26",
+            "upazila": "Setabganj",
+            "postOffice": "Setabganj",
+            "postCode": "5216",
+            "bn_postOffice": "সেতাবগঞ্জ"
+        }
+    ]
+}

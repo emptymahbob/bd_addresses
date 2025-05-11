@@ -1,0 +1,108 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Barhamganj",
+            "postOffice": "Bahadurpur",
+            "postCode": "7932",
+            "bn_postOffice": "বাহাদুরপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Barhamganj",
+            "postOffice": "Barhamganj",
+            "postCode": "7930",
+            "bn_postOffice": "বরহামগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Barhamganj",
+            "postOffice": "Nilaksmibandar",
+            "postCode": "7931",
+            "bn_postOffice": "নীলক্ষিবন্দর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Barhamganj",
+            "postOffice": "Umedpur",
+            "postCode": "7933",
+            "bn_postOffice": "উমেদপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "kalkini",
+            "postOffice": "Kalkini",
+            "postCode": "7920",
+            "bn_postOffice": "কালকিনি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "kalkini",
+            "postOffice": "Sahabrampur",
+            "postCode": "7921",
+            "bn_postOffice": "সহব্রমপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Madaripur Sadar",
+            "postOffice": "Charmugria",
+            "postCode": "7901",
+            "bn_postOffice": "চারমুগ্রিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Madaripur Sadar",
+            "postOffice": "Habiganj",
+            "postCode": "7903",
+            "bn_postOffice": "হবিগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Madaripur Sadar",
+            "postOffice": "Kulpaddi",
+            "postCode": "7902",
+            "bn_postOffice": "কুলপদ্দি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Madaripur Sadar",
+            "postOffice": "Madaripur Sadar",
+            "postCode": "7900",
+            "bn_postOffice": "মাদারীপুর সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Madaripur Sadar",
+            "postOffice": "Mustafapur",
+            "postCode": "7904",
+            "bn_postOffice": "মুস্তাফাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Rajoir",
+            "postOffice": "Khalia",
+            "postCode": "7911",
+            "bn_postOffice": "খালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "7",
+            "upazila": "Rajoir",
+            "postOffice": "Rajoir",
+            "postCode": "7910",
+            "bn_postOffice": "রাজৈর"
+        }
+    ]
+}

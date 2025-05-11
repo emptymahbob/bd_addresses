@@ -1,0 +1,76 @@
+{
+    "postcodes": [
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Kalia",
+            "postOffice": "Kalia",
+            "postCode": "7520",
+            "bn_postOffice": "কালিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Laxmipasha",
+            "postOffice": "Baradia",
+            "postCode": "7514",
+            "bn_postOffice": "বড়দিয়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Laxmipasha",
+            "postOffice": "Itna",
+            "postCode": "7512",
+            "bn_postOffice": "ইটনা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Laxmipasha",
+            "postOffice": "Laxmipasha",
+            "postCode": "7510",
+            "bn_postOffice": "লক্ষ্মীপাশা"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Laxmipasha",
+            "postOffice": "Lohagora",
+            "postCode": "7511",
+            "bn_postOffice": "লোহাগোড়া"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Laxmipasha",
+            "postOffice": "Naldi",
+            "postCode": "7513",
+            "bn_postOffice": "নালদি"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Mohajan",
+            "postOffice": "Mohajan",
+            "postCode": "7521",
+            "bn_postOffice": "মহাজন"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Narail Sadar",
+            "postOffice": "Narail Sadar",
+            "postCode": "7500",
+            "bn_postOffice": "নড়াইল সদর"
+        },
+        {
+            "division_id": "4",
+            "district_id": "63",
+            "upazila": "Narail Sadar",
+            "postOffice": "Ratanganj",
+            "postCode": "7501",
+            "bn_postOffice": "রতনগঞ্জ"
+        }
+    ]
+}

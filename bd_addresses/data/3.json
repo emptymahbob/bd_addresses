@@ -1,0 +1,188 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Gazipur Sadar",
+            "postOffice": "B.O.F",
+            "postCode": "1703",
+            "bn_postOffice": "বিওএফ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Gazipur Sadar",
+            "postOffice": "B.R.R",
+            "postCode": "1701",
+            "bn_postOffice": "বিআরআর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Gazipur Sadar",
+            "postOffice": "Chandna",
+            "postCode": "1702",
+            "bn_postOffice": "চন্দনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Gazipur Sadar",
+            "postOffice": "Gazipur Sadar",
+            "postCode": "1700",
+            "bn_postOffice": "গাজীপুর সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Gazipur Sadar",
+            "postOffice": "National University",
+            "postCode": "1704",
+            "bn_postOffice": "জাতীয় বিশ্ববিদ্যালয়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliakaar",
+            "postOffice": "Kaliakaar",
+            "postCode": "1750",
+            "bn_postOffice": "কালিয়াকার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliakaar",
+            "postOffice": "Safipur",
+            "postCode": "1751",
+            "bn_postOffice": "সফিপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliganj",
+            "postOffice": "Kaliganj",
+            "postCode": "1720",
+            "bn_postOffice": "কালীগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliganj",
+            "postOffice": "Pubail",
+            "postCode": "1721",
+            "bn_postOffice": "পুবাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliganj",
+            "postOffice": "Santanpara",
+            "postCode": "1722",
+            "bn_postOffice": "সান্তানপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kaliganj",
+            "postOffice": "Vaoal Jamalpur",
+            "postCode": "1723",
+            "bn_postOffice": "ভাওয়াল জামালপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Kapashia",
+            "postOffice": "kapashia",
+            "postCode": "1730",
+            "bn_postOffice": "কাপাশিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Monnunagar",
+            "postOffice": "Ershad Nagar",
+            "postCode": "1712",
+            "bn_postOffice": "এরশাদ নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Monnunagar",
+            "postOffice": "Monnunagar",
+            "postCode": "1710",
+            "bn_postOffice": "মুন্নুনগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Monnunagar",
+            "postOffice": "Nishat Nagar",
+            "postCode": "1711",
+            "bn_postOffice": "নিশাত নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Barmi",
+            "postCode": "1743",
+            "bn_postOffice": "বার্মি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Bashamur",
+            "postCode": "1747",
+            "bn_postOffice": "বাশামুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Boubi",
+            "postCode": "1748",
+            "bn_postOffice": "বাউবি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Kawraid",
+            "postCode": "1745",
+            "bn_postOffice": "কাওরাইদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Satkhamair",
+            "postCode": "1744",
+            "bn_postOffice": "সাতখামাইর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sreepur",
+            "postOffice": "Sreepur",
+            "postCode": "1740",
+            "bn_postOffice": "শ্রীপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sripur",
+            "postOffice": "Rajendrapur",
+            "postCode": "1741",
+            "bn_postOffice": "রাজেন্দ্রপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "3",
+            "upazila": "Sripur",
+            "postOffice": "Rajendrapur Canttome",
+            "postCode": "1742",
+            "bn_postOffice": "রাজেন্দ্রপুর ক্যান্টোম"
+        }
+    ]
+}

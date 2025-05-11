@@ -1,0 +1,308 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Gajaria",
+            "postOffice": "Gajaria",
+            "postCode": "1510",
+            "bn_postOffice": "গজারিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Gajaria",
+            "postOffice": "Hossendi",
+            "postCode": "1511",
+            "bn_postOffice": "হোসেন্ডি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Gajaria",
+            "postOffice": "Rasulpur",
+            "postCode": "1512",
+            "bn_postOffice": "রসুলপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Gouragonj",
+            "postCode": "1334",
+            "bn_postOffice": "গৌরাগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Gouragonj",
+            "postCode": "1534",
+            "bn_postOffice": "গৌরাগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Haldia SO",
+            "postCode": "1532",
+            "bn_postOffice": "হলদিয়া এস.ও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Haridia",
+            "postCode": "1333",
+            "bn_postOffice": "হরিদিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Haridia DESO",
+            "postCode": "1533",
+            "bn_postOffice": "হরিদিয়া ডেসো"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Korhati",
+            "postCode": "1531",
+            "bn_postOffice": "কোরহাটি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Lohajang",
+            "postCode": "1530",
+            "bn_postOffice": "লোহাজং"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Madini Mandal",
+            "postCode": "1335",
+            "bn_postOffice": "মাদিনী মণ্ডল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Lohajong",
+            "postOffice": "Medini Mandal EDSO",
+            "postCode": "1535",
+            "bn_postOffice": "মেদিনী মণ্ডল ইডিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Munshiganj Sadar",
+            "postOffice": "Kathakhali",
+            "postCode": "1503",
+            "bn_postOffice": "কাঠাখালী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Munshiganj Sadar",
+            "postOffice": "Mirkadim",
+            "postCode": "1502",
+            "bn_postOffice": "মিরকাদিম"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Munshiganj Sadar",
+            "postOffice": "Munshiganj Sadar",
+            "postCode": "1500",
+            "bn_postOffice": "মুন্সীগঞ্জ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Munshiganj Sadar",
+            "postOffice": "Rikabibazar",
+            "postCode": "1501",
+            "bn_postOffice": "রিকাবিবাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Sirajdikhan",
+            "postOffice": "Ichapur",
+            "postCode": "1542",
+            "bn_postOffice": "ইছাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Sirajdikhan",
+            "postOffice": "Kola",
+            "postCode": "1541",
+            "bn_postOffice": "কোলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Sirajdikhan",
+            "postOffice": "Malkha Nagar",
+            "postCode": "1543",
+            "bn_postOffice": "মালখা নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Sirajdikhan",
+            "postOffice": "Shekher Nagar",
+            "postCode": "1544",
+            "bn_postOffice": "শেখের নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Sirajdikhan",
+            "postOffice": "Sirajdikhan",
+            "postCode": "1540",
+            "bn_postOffice": "সিরাজদিখান"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Baghra",
+            "postCode": "1557",
+            "bn_postOffice": "বাঘরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Barikhal",
+            "postCode": "1551",
+            "bn_postOffice": "বারিখাল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Bhaggyakul",
+            "postCode": "1558",
+            "bn_postOffice": "ভাগ্যকুল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Hashara",
+            "postCode": "1553",
+            "bn_postOffice": "হাশারা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Kolapara",
+            "postCode": "1554",
+            "bn_postOffice": "কোলাপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Kumarbhog",
+            "postCode": "1555",
+            "bn_postOffice": "কুমারভোগ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Mazpara",
+            "postCode": "1552",
+            "bn_postOffice": "মাজপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Srinagar",
+            "postCode": "1550",
+            "bn_postOffice": "শ্রীনগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Srinagar",
+            "postOffice": "Vaggyakul SO",
+            "postCode": "1556",
+            "bn_postOffice": "ভাগ্যাকুল এসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Bajrajugini",
+            "postCode": "1523",
+            "bn_postOffice": "বজ্রযুগিনী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Baligao",
+            "postCode": "1522",
+            "bn_postOffice": "বালিগাও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Betkahat",
+            "postCode": "1521",
+            "bn_postOffice": "বেতকাহাট"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Dighirpar",
+            "postCode": "1525",
+            "bn_postOffice": "দিঘিরপাড়"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Hasail",
+            "postCode": "1524",
+            "bn_postOffice": "হাসাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Pura",
+            "postCode": "1527",
+            "bn_postOffice": "পুরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Pura EDSO",
+            "postCode": "1526",
+            "bn_postOffice": "পুরা ইডিএসও"
+        },
+        {
+            "division_id": "3",
+            "district_id": "9",
+            "upazila": "Tangibari",
+            "postOffice": "Tangibari",
+            "postCode": "1520",
+            "bn_postOffice": "টাঙ্গিবাড়ি"
+        }
+    ]
+}

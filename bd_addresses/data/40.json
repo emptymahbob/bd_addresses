@@ -1,0 +1,60 @@
+{
+    "postcodes": [
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Alikadam",
+            "postOffice": "Alikadam",
+            "postCode": "4650",
+            "bn_postOffice": "আলীকদম"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Bandarban Sadar",
+            "postOffice": "Bandarban Sadar",
+            "postCode": "4600",
+            "bn_postOffice": "বান্দরবান সদর"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Naikhong",
+            "postOffice": "Naikhong",
+            "postCode": "4660",
+            "bn_postOffice": "নাইখং"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Roanchhari",
+            "postOffice": "Roanchhari",
+            "postCode": "4610",
+            "bn_postOffice": "রোয়ানছড়ি"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Ruma",
+            "postOffice": "Ruma",
+            "postCode": "4620",
+            "bn_postOffice": "রুমা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Thanchi",
+            "postOffice": "Lama",
+            "postCode": "4641",
+            "bn_postOffice": "লামা"
+        },
+        {
+            "division_id": "2",
+            "district_id": "40",
+            "upazila": "Thanchi",
+            "postOffice": "Thanchi",
+            "postCode": "4630",
+            "bn_postOffice": "থানচি"
+        }
+    ]
+}

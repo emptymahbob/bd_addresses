@@ -1,0 +1,148 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Susung Durgapur",
+            "postOffice": "Susnng Durgapur",
+            "postCode": "2420",
+            "bn_postOffice": "সুসং দুর্গাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Atpara",
+            "postOffice": "Atpara",
+            "postCode": "2470",
+            "bn_postOffice": "আটপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Barhatta",
+            "postOffice": "Barhatta",
+            "postCode": "2440",
+            "bn_postOffice": "বারহাট্টা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Dharmapasha",
+            "postOffice": "Dharampasha",
+            "postCode": "2450",
+            "bn_postOffice": "ধরমপাশা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Dhobaura",
+            "postOffice": "Dhobaura",
+            "postCode": "2416",
+            "bn_postOffice": "ধোবাউড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Dhobaura",
+            "postOffice": "Sakoai",
+            "postCode": "2417",
+            "bn_postOffice": "সাকোই"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Kalmakanda",
+            "postOffice": "Kalmakanda",
+            "postCode": "2430",
+            "bn_postOffice": "কলমাকান্দা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Kendua",
+            "postOffice": "Kendua",
+            "postCode": "2480",
+            "bn_postOffice": "কেন্দুয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Khaliajuri",
+            "postOffice": "Khaliajhri",
+            "postCode": "2460",
+            "bn_postOffice": "খালিয়াঝরি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Khaliajuri",
+            "postOffice": "Shaldigha",
+            "postCode": "2462",
+            "bn_postOffice": "শালদিঘা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Madan",
+            "postOffice": "Madan",
+            "postCode": "2490",
+            "bn_postOffice": "মদন"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Moddhynagar",
+            "postOffice": "Moddoynagar",
+            "postCode": "2456",
+            "bn_postOffice": "মোদ্দয়নগর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Mohanganj",
+            "postOffice": "Mohanganj",
+            "postCode": "2446",
+            "bn_postOffice": "মোহনগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Netrakona Sadar",
+            "postOffice": "Baikherhati",
+            "postCode": "2401",
+            "bn_postOffice": "বৈখেরহাটি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Netrakona Sadar",
+            "postOffice": "Netrakona Sadar",
+            "postCode": "2400",
+            "bn_postOffice": "নেত্রকোনা সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Purbadhola",
+            "postOffice": "Jaria Jhanjhail",
+            "postCode": "2412",
+            "bn_postOffice": "জারিয়া ঝাঁঝাইল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Purbadhola",
+            "postOffice": "Purbadhola",
+            "postCode": "2410",
+            "bn_postOffice": "পূর্বধোলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "13",
+            "upazila": "Purbadhola",
+            "postOffice": "Shamgonj",
+            "postCode": "2411",
+            "bn_postOffice": "শামগঞ্জ"
+        }
+    ]
+}

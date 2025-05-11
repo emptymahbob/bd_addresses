@@ -1,0 +1,60 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "Akkelpur",
+            "postOffice": "Akklepur",
+            "postCode": "5940",
+            "bn_postOffice": "আক্কলেপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "Akkelpur",
+            "postOffice": "jamalganj",
+            "postCode": "5941",
+            "bn_postOffice": "জামালগঞ্জ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "Akkelpur",
+            "postOffice": "Tilakpur",
+            "postCode": "5942",
+            "bn_postOffice": "তিলকপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "Joypurhat Sadar",
+            "postOffice": "Joypurhat Sadar",
+            "postCode": "5900",
+            "bn_postOffice": "জয়পুরহাট সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "kalai",
+            "postOffice": "kalai",
+            "postCode": "5930",
+            "bn_postOffice": "কালাই"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "Khetlal",
+            "postOffice": "Khetlal",
+            "postCode": "5920",
+            "bn_postOffice": "ক্ষেতলাল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "19",
+            "upazila": "panchbibi",
+            "postOffice": "Panchbibi",
+            "postCode": "5910",
+            "bn_postOffice": "পাঁচবিবি"
+        }
+    ]
+}

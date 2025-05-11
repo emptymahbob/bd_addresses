@@ -1,0 +1,188 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Baiddya Jam Toil",
+            "postOffice": "Baiddya Jam Toil",
+            "postCode": "6730",
+            "bn_postOffice": "বৈদ্য জাম টয়েল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Belkuchi",
+            "postOffice": "Belkuchi",
+            "postCode": "6740",
+            "bn_postOffice": "বেলকুচি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Belkuchi",
+            "postOffice": "Enayetpur",
+            "postCode": "6751",
+            "bn_postOffice": "এনায়েতপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Belkuchi",
+            "postOffice": "Rajapur",
+            "postCode": "6742",
+            "bn_postOffice": "রাজাপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Belkuchi",
+            "postOffice": "Sohagpur",
+            "postCode": "6741",
+            "bn_postOffice": "সোহাগপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Belkuchi",
+            "postOffice": "Sthal",
+            "postCode": "6752",
+            "bn_postOffice": "স্থাল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Dhangora",
+            "postOffice": "Dhangora",
+            "postCode": "6720",
+            "bn_postOffice": "ধানগোড়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Dhangora",
+            "postOffice": "Malonga",
+            "postCode": "6721",
+            "bn_postOffice": "মালোঙ্গা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Kazipur",
+            "postOffice": "Gandail",
+            "postCode": "6712",
+            "bn_postOffice": "গান্ডাইল"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Kazipur",
+            "postOffice": "Kazipur",
+            "postCode": "6710",
+            "bn_postOffice": "কাজীপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Kazipur",
+            "postOffice": "Shuvgachha",
+            "postCode": "6711",
+            "bn_postOffice": "শুভগাছা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Shahjadpur",
+            "postOffice": "Jamirta",
+            "postCode": "6772",
+            "bn_postOffice": "জামির্তা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Shahjadpur",
+            "postOffice": "Kaijuri",
+            "postCode": "6773",
+            "bn_postOffice": "কাইজুরি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Shahjadpur",
+            "postOffice": "Porjana",
+            "postCode": "6771",
+            "bn_postOffice": "পোরজানা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Shahjadpur",
+            "postOffice": "Shahjadpur",
+            "postCode": "6770",
+            "bn_postOffice": "শাহজাদপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Sirajganj Sadar",
+            "postOffice": "Raipur",
+            "postCode": "6701",
+            "bn_postOffice": "রায়পুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Sirajganj Sadar",
+            "postOffice": "Rashidabad",
+            "postCode": "6702",
+            "bn_postOffice": "রশিদাবাদ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Sirajganj Sadar",
+            "postOffice": "Sirajganj Sadar",
+            "postCode": "6700",
+            "bn_postOffice": "সিরাজগঞ্জ সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Tarash",
+            "postOffice": "Tarash",
+            "postCode": "6780",
+            "bn_postOffice": "তারাশ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Ullapara",
+            "postOffice": "Lahiri Mohanpur",
+            "postCode": "6762",
+            "bn_postOffice": "লাহিড়ী মোহনপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Ullapara",
+            "postOffice": "Salap",
+            "postCode": "6763",
+            "bn_postOffice": "সালাপ"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Ullapara",
+            "postOffice": "Ullapara",
+            "postCode": "6760",
+            "bn_postOffice": "উল্লাপাড়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "25",
+            "upazila": "Ullapara",
+            "postOffice": "Ullapara R.S",
+            "postCode": "6761",
+            "bn_postOffice": "উল্লাপাড়া আরএস"
+        }
+    ]
+}

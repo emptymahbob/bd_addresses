@@ -1,0 +1,148 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Belabo",
+            "postOffice": "Belabo",
+            "postCode": "1640",
+            "bn_postOffice": "বেলাবো"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Monohordi",
+            "postOffice": "Hatirdia",
+            "postCode": "1651",
+            "bn_postOffice": "হাতিরদিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Monohordi",
+            "postOffice": "Katabaria",
+            "postCode": "1652",
+            "bn_postOffice": "কাটাবাড়িয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Monohordi",
+            "postOffice": "Monohordi",
+            "postCode": "1650",
+            "bn_postOffice": "মনোহোর্ডি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "Karimpur",
+            "postCode": "1605",
+            "bn_postOffice": "করিমপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "Madhabdi",
+            "postCode": "1604",
+            "bn_postOffice": "মাধবদী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "Narsingdi College",
+            "postCode": "1602",
+            "bn_postOffice": "নরসিংদী কলেজ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "Narsingdi Sadar",
+            "postCode": "1600",
+            "bn_postOffice": "নরসিংদী সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "Panchdona",
+            "postCode": "1603",
+            "bn_postOffice": "পাঁচডোনা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Narsingdi Sadar",
+            "postOffice": "UMC Jute Mills",
+            "postCode": "1601",
+            "bn_postOffice": "ইউএমসি জুট মিলস"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Palash",
+            "postOffice": "Char Sindhur",
+            "postCode": "1612",
+            "bn_postOffice": "চর সিন্ধুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Palash",
+            "postOffice": "Ghorashal",
+            "postCode": "1613",
+            "bn_postOffice": "ঘোড়াশাল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Palash",
+            "postOffice": "Ghorashal Urea Facto",
+            "postCode": "1611",
+            "bn_postOffice": "ঘোড়াশাল ইউরিয়া ফ্যাক্টো"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Palash",
+            "postOffice": "Palash",
+            "postCode": "1610",
+            "bn_postOffice": "পলাশ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Raypura",
+            "postOffice": "Bazar Hasnabad",
+            "postCode": "1631",
+            "bn_postOffice": "বাজার হাসনাবাদ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Raypura",
+            "postOffice": "Radhaganj bazar",
+            "postCode": "1632",
+            "bn_postOffice": "রাধাগঞ্জ বাজার"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Raypura",
+            "postOffice": "Raypura",
+            "postCode": "1630",
+            "bn_postOffice": "রায়পুরা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "12",
+            "upazila": "Shibpur",
+            "postOffice": "Shibpur",
+            "postCode": "1620",
+            "bn_postOffice": "শিবপুর"
+        }
+    ]
+}

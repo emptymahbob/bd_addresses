@@ -1,0 +1,116 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Gopalganj Sadar",
+            "postOffice": "Barfa",
+            "postCode": "8102",
+            "bn_postOffice": "বরফা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Gopalganj Sadar",
+            "postOffice": "Chandradighalia",
+            "postCode": "8013",
+            "bn_postOffice": "চন্দ্রদিঘালিয়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Gopalganj Sadar",
+            "postOffice": "Gopalganj Sadar",
+            "postCode": "8100",
+            "bn_postOffice": "গোপালগঞ্জ সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Gopalganj Sadar",
+            "postOffice": "Ulpur",
+            "postCode": "8101",
+            "bn_postOffice": "উলপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Kashiani",
+            "postOffice": "Jonapur",
+            "postCode": "8133",
+            "bn_postOffice": "জোনাপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Kashiani",
+            "postOffice": "Kashiani",
+            "postCode": "8130",
+            "bn_postOffice": "কাশিয়ানি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Kashiani",
+            "postOffice": "Ramdia College",
+            "postCode": "8131",
+            "bn_postOffice": "রামদিয়া কলেজ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Kashiani",
+            "postOffice": "Ratoil",
+            "postCode": "8132",
+            "bn_postOffice": "র‍্যাটয়েল"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Kotalipara",
+            "postOffice": "Kotalipara",
+            "postCode": "8110",
+            "bn_postOffice": "কোটালিপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Maksudpur",
+            "postOffice": "Batkiamari",
+            "postCode": "8141",
+            "bn_postOffice": "বাটকিয়ামারি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Maksudpur",
+            "postOffice": "Khandarpara",
+            "postCode": "8142",
+            "bn_postOffice": "খন্দরপাড়া"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Maksudpur",
+            "postOffice": "Maksudpur",
+            "postCode": "8140",
+            "bn_postOffice": "মকসুদপুর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Tungipara",
+            "postOffice": "Patgati",
+            "postCode": "8121",
+            "bn_postOffice": "পাটগাতি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "4",
+            "upazila": "Tungipara",
+            "postOffice": "Tungipara",
+            "postCode": "8120",
+            "bn_postOffice": "টুঙ্গিপাড়া"
+        }
+    ]
+}

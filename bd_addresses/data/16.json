@@ -1,0 +1,68 @@
+{
+    "postcodes": [
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Bakshigonj",
+            "postOffice": "Bakshigonj",
+            "postCode": "2140",
+            "bn_postOffice": "বকশিগঞ্জ"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Jhinaigati",
+            "postOffice": "Jhinaigati",
+            "postCode": "2120",
+            "bn_postOffice": "ঝিনাইগাতী"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Nakla",
+            "postOffice": "Gonopaddi",
+            "postCode": "2151",
+            "bn_postOffice": "গনোপাদ্ডি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Nakla",
+            "postOffice": "Nakla",
+            "postCode": "2150",
+            "bn_postOffice": "নকলা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Nalitabari",
+            "postOffice": "Hatibandha",
+            "postCode": "2111",
+            "bn_postOffice": "হাতীবান্ধা"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Nalitabari",
+            "postOffice": "Nalitabari",
+            "postCode": "2110",
+            "bn_postOffice": "নালিতাবাড়ি"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Sherpur Shadar",
+            "postOffice": "Sherpur Shadar",
+            "postCode": "2100",
+            "bn_postOffice": "শেরপুর সদর"
+        },
+        {
+            "division_id": "3",
+            "district_id": "16",
+            "upazila": "Shribardi",
+            "postOffice": "Shribardi",
+            "postCode": "2130",
+            "bn_postOffice": "শ্রীবরদী"
+        }
+    ]
+}

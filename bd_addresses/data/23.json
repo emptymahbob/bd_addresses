@@ -1,0 +1,148 @@
+{
+    "postcodes": [
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Banwarinagar",
+            "postOffice": "Banwarinagar",
+            "postCode": "6650",
+            "bn_postOffice": "বনওয়ারীনগর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Bera",
+            "postOffice": "Bera",
+            "postCode": "6680",
+            "bn_postOffice": "বেরা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Bera",
+            "postOffice": "Kashinathpur",
+            "postCode": "6682",
+            "bn_postOffice": "কাশীনাথপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Bera",
+            "postOffice": "Nakalia",
+            "postCode": "6681",
+            "bn_postOffice": "নাকালিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Bera",
+            "postOffice": "Puran Bharenga",
+            "postCode": "6683",
+            "bn_postOffice": "পুরাণ ভারেঙ্গা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Bhangura",
+            "postOffice": "Bhangura",
+            "postCode": "6640",
+            "bn_postOffice": "ভাঙ্গুরা"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Chatmohar",
+            "postOffice": "Chatmohar",
+            "postCode": "6630",
+            "bn_postOffice": "চাটমোহর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Debottar",
+            "postOffice": "Debottar",
+            "postCode": "6610",
+            "bn_postOffice": "দেবোত্তর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Ishwardi",
+            "postOffice": "Dhapari",
+            "postCode": "6621",
+            "bn_postOffice": "ধাপারি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Ishwardi",
+            "postOffice": "Ishwardi",
+            "postCode": "6620",
+            "bn_postOffice": "ঈশ্বরদী"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Ishwardi",
+            "postOffice": "Pakshi",
+            "postCode": "6622",
+            "bn_postOffice": "পাকশি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Ishwardi",
+            "postOffice": "Rajapur",
+            "postCode": "6623",
+            "bn_postOffice": "রাজাপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Pabna Sadar",
+            "postOffice": "Hamayetpur",
+            "postCode": "6602",
+            "bn_postOffice": "হামায়েতপুর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Pabna Sadar",
+            "postOffice": "Kaliko Cotton Mills",
+            "postCode": "6601",
+            "bn_postOffice": "কালিকো কটন মিলস"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Pabna Sadar",
+            "postOffice": "Pabna Sadar",
+            "postCode": "6600",
+            "bn_postOffice": "পাবনা সদর"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Sathia",
+            "postOffice": "Sathia",
+            "postCode": "6670",
+            "bn_postOffice": "সাথিয়া"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Sujanagar",
+            "postOffice": "Sagarkandi",
+            "postCode": "6661",
+            "bn_postOffice": "সাগরকান্দি"
+        },
+        {
+            "division_id": "5",
+            "district_id": "23",
+            "upazila": "Sujanagar",
+            "postOffice": "Sujanagar",
+            "postCode": "6660",
+            "bn_postOffice": "সুজানগর"
+        }
+    ]
+}

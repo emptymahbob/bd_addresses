@@ -1,0 +1,100 @@
+{
+    "postcodes": [
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Bonarpara",
+            "postOffice": "Bonarpara",
+            "postCode": "5750",
+            "bn_postOffice": "বোনারপাড়া"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Bonarpara",
+            "postOffice": "saghata",
+            "postCode": "5751",
+            "bn_postOffice": "সাঘাটা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Gaibandha Sadar",
+            "postOffice": "Gaibandha Sadar",
+            "postCode": "5700",
+            "bn_postOffice": "গাইবান্ধা সদর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Gobindaganj",
+            "postOffice": "Gobindhaganj",
+            "postCode": "5740",
+            "bn_postOffice": "গোবিন্দগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Gobindaganj",
+            "postOffice": "Mahimaganj",
+            "postCode": "5741",
+            "bn_postOffice": "মহিমাগঞ্জ"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Palashbari",
+            "postOffice": "Palashbari",
+            "postCode": "5730",
+            "bn_postOffice": "পলাশবাড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Phulchhari",
+            "postOffice": "Bharatkhali",
+            "postCode": "5761",
+            "bn_postOffice": "ভরতখালী"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Phulchhari",
+            "postOffice": "Phulchhari",
+            "postCode": "5760",
+            "bn_postOffice": "ফুলছড়ি"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Saadullapur",
+            "postOffice": "Naldanga",
+            "postCode": "5711",
+            "bn_postOffice": "নলডাঙ্গা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Saadullapur",
+            "postOffice": "Saadullapur",
+            "postCode": "5710",
+            "bn_postOffice": "সাদুল্লাপুর"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Sundarganj",
+            "postOffice": "Bamandanga",
+            "postCode": "5721",
+            "bn_postOffice": "বামনডাঙ্গা"
+        },
+        {
+            "division_id": "6",
+            "district_id": "27",
+            "upazila": "Sundarganj",
+            "postOffice": "Sundarganj",
+            "postCode": "5720",
+            "bn_postOffice": "সুন্দরগঞ্জ"
+        }
+    ]
+}
