@@ -4,9 +4,9 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET');
 
 // Load JSON files
-$divisions = json_decode(file_get_contents(__DIR__ . '/bd-divisions.json'), true);
-$districts = json_decode(file_get_contents(__DIR__ . '/bd-districts.json'), true);
-$upazilas = json_decode(file_get_contents(__DIR__ . '/bd-upazilas.json'), true);
+$divisions = json_decode(file_get_contents(__DIR__ . '/data/bd-divisions.json'), true);
+$districts = json_decode(file_get_contents(__DIR__ . '/data/bd-districts.json'), true);
+$upazilas = json_decode(file_get_contents(__DIR__ . '/data/bd-upazilas.json'), true);
 
 // Get the action from request
 $action = $_GET['action'] ?? '';
@@ -39,7 +39,7 @@ switch($action) {
     case 'postoffices':
         $district_id = $_GET['district_id'] ?? '';
         if ($district_id) {
-            $district_file = __DIR__ . '/' . $district_id . '.json';
+            $district_file = __DIR__ . '/data/' . $district_id . '.json';
             if (file_exists($district_file)) {
                 $district_data = json_decode(file_get_contents($district_file), true);
                 echo json_encode($district_data['postcodes']);
